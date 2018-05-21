@@ -1,0 +1,149 @@
+{
+  "title":{"0":
+      
+      "A framework towards governing Bring Your Own Device in SMMEs"
+    ,
+      "1":
+      "PoPI Act - opt-in and opt-out compliance from a data value chain perspective: A South African insurance industry experiment"
+    ,
+    "2":
+      
+      "An Interactive Visual Library Model to Improve Awareness in Handling of Business Information"
+    ,
+    "3":
+      
+      "Mobile Device Usage in Higher Education Institutions in South Africa"
+    ,
+    "4":
+      
+      "SHA-1 and the Strict Avalanche Criterion"
+    ,
+    "5":
+      
+      "Specific Emitter Identification for Enhanced Access Control Security"
+    ,
+    "6":
+      
+      "Review of Data Storage Protection Approaches for POPI Compliance"
+    ,
+    "7":
+      
+      "CDMA in Signal Encryption and Information Security"
+    ,
+    "8":
+      
+      "Effect of Varying Node Mobility in the Analysis of Black Hole Attack on MANET Reactive Routing Protocols"
+    ,
+    "9":
+      
+      "The Pattern-richness of Graphical Passwords"
+    ,
+    "10":
+      
+      "Dridex: analysis of the traffic and automatic generation of IOCs"
+    ,
+    "11":
+      
+      "Context Aware Mobile Application for Mobile Devices"
+    ,
+    "12":
+      
+      "Team Formation in Digital Forensics"
+    ,
+    "13":
+      
+      "Social Network Phishing: Becoming Habituated to Clicks and Ignorant to Threats"
+    ,
+    "14":
+      
+      "Identity Management for e-Government Libya as a case study"
+    ,
+    "15":
+      
+      "Recognizing Surgically Altered Faces using Local Edge Gradient Gabor Magnitude Pattern"
+    ,
+    "16":
+      
+      "Adaptable Exploit Detection through Scalable NetFlow Analysis"
+    ,
+    "17":
+    
+      "Unsupervised Learning for Robust Bitcoin Fraud Detection"
+  },
+
+
+    "abstracts":{"0":
+    
+      "A framework towards governing Bring Your Own Device in SMMEs  Information is a critically important asset that has been used for decades within organizations. Like any asset, there are threats to the information that impact processes such as email retrieval and access to organizational system services. As a consequence of the threats, attention to the security of the information is important. Technology is utilized to secure information and the cost affiliated to the technology can be dire. As technology evolves with each transitory decade, there are different phenomenon’s that attempt to process and secure organizational information whilst reducing costs. The evolution of technology has developed a new phenomenon called “Bring Your Own Device” (BYOD). BYOD is a phenomenon that allows employees to use their own personal mobile device to complete organizational tasks. The adoption of BYOD expands from large organizations to small, medium and micro enterprises (SMMEs). With the adoption of BYOD there are benefits and more significantly risks associated to BYOD. Therefore, this paper will discuss the SMME context and its challenges towards the governance of BYOD. In addition, there will be a discussion on how organizations can govern BYOD in an SMME context by considering the existing BYOD approaches and provide an approach suitable for SMMEs. Furthermore, the suitable BYOD approach for an SMME context will further be evaluated and compared against the existing BYOD approaches that were identified. The research process of the study is conducted within the design-oriented research paradigm utilizing a cyclic approach."
+    ,
+    "1":
+    
+      "PoPI Act - opt-in and opt-out compliance from a data value chain perspective: A South African insurance industry experiment Personal information is collected and processed by various companies when individuals buy products and services, share their information on social media or enter their details in competitions and so on. This personal information, which could potentially also be shared with third party companies, is analyzed to tailor services and products to consumer’s preferences and online behavior, with the objective of creating a data value chain. When the Protection of Personal Information (PoPI) Act comes into effect in South Africa, companies will have to comply with the conditions of PoPI and protect individuals’ personal information accordingly. Companies will only be allowed to use personal information for the agreed purpose it was collected for and must obtain individuals’ consent to share or further process their information"
+    ,
+    "2":
+    
+      "An Interactive Visual Library Model to Improve Awareness in Handling of Business Information  Information technology has changed organisational processes significantly. However, information security is still a controversial issue among experts in this domain. Information security breaches lead to loss of reputation, competitive advantages, intellectual properties, productivity, and revenue and in the worst scenario leads to bankruptcy. In this regard, awareness plays a vital role to mitigate information security threats. This study aims to present different threats that effect confidentiality, integrity and availability of information,  pertaining to administrative employees, in an integrated and informative design, based on a review of literature. In addition, a possible interactive visual library is proposed, through a proof of concept that contributes to administrative employees’ information security awareness. The results shed some light on this information security awareness issue, and provides the means for further academic study."
+    ,
+    "3":
+    
+      "Mobile Device Usage in Higher Education Institutions in South Africa Cyber security threats are on the rise as the use of personally owned devices are increasing within higher education institutions. This is due to the rapid adoption of the Bring Your Own Device (BYOD) trend. In 2014, 92% of students used laptops globally for academic purposes, 44% used tablets, and 68% used smart phones. In addition, 89% of higher education institutions in the United States and United Kingdom allow students, faculty and non-academic staff to access their network using personally owned mobile devices.A great concern is that although BYOD is widely accepted in higher education institutions, security is somewhat lacking. In addition, cyber-security threats have switched their focus to mobile devices. Therefore, the number of new mobile vulnerabilities reported each year has increased. Furthermore, in 2014, 10% of global cyber security breaches took place in the education sector with a total of 31 breaches resulting in the exposure of 1,359,190 identities. This placed the educational sector at the top of the list with the third most cyber-security breaches in 2014, behind the healthcare and retail sectors. A literature survey, together with a single explanatory case study involving a higher education institution in South Africa were used to determine typical mobile device usage in an academic context. As a result of completing the study, it is clear that there is a high demand for the use of BYOD in higher education institutions in South Africa and that BYOD is vital to the academic success of its students. This paper discusses mobile device usage in higher education institutions in South Africa. In addition, it provides some key factors for higher education institutions to consider when dealing with the increased demand for BYOD usage."
+    ,
+    "4":
+    
+      "SHA-1 and the Strict Avalanche Criterion The Strict Avalanche Criterion (SAC) is a measure of both confusion and diffusion, which are key properties of a cryptographic hash function. This work provides a working definition of the SAC, describes an experimental methodology that can be used to statistically evaluate whether a cryptographic hash meets the SAC, and uses this to investigate the degree to which compression function of the SHA-1 hash meets the SAC. The results (P < 0:01) are heartening: SHA-1 closely tracks the SAC after the first 24 rounds, and demonstrates excellent properties of confusion and diffusion throughout."
+    ,
+    "5":
+    
+      "Specific Emitter Identification for Enhanced Access Control Security This paper presents the application of specific emitter identification (SEI) to access control and points out the security caveats of current radio-based access remotes. Specifically, SEI is applied to radio frequency (RF) access remotes used to open and close motorised gates in residential housing complexes for the purposes of access control. A proof-of-concept SEI system was developed to investigate whether it is possible to distinguish between the RF signals produced by two nominally-identical access remotes. It was determined that it is possible to distinguish between the remotes with an accuracy of 98%"
+    ,
+    "6":
+    
+      "Review of Data Storage Protection Approaches for POPI Compliance In business, information security has always been a debated topic amongst management and executives. Investing in something that is intangible is often not seen as priority expenditure as it brings no Return on Investment nor contributes to expanding the business. However, the newly enacted Protection of Personal Information (POPI) Act forces businesses to re-evaluate their stance on information security and data storage protection as POPI requires that “appropriate and reasonable security measures” be put in place to effectively protect all personal information that large organisations as well as smaller businesses process and more importantly store. However, the lack of comprehensive controls found within any one information security approach (information security standard, best practice or framework) to fully address the requirements of the POPI act, leaves businesses exposed to legislative action under POPI. This paper, through the use of a detailed literature review and qualitative content analysis aims to analyze widely implemented information security approaches in the context of POPI compliance. Through identifying themes for data protection within various information security approaches, an evaluation of the comprehensiveness of these approaches and their proposed mechanisms for protecting data within businesses is conducted."
+    ,
+    "7":
+    
+      "CDMA in Signal Encryption and Information Security Code-division multiple-access (CDMA) is a communication technique that was developed originally for the military because of its jam-resistant properties. It is one of the early forms of jam-resistant, signal encryption techniques used in military applications for the purpose of wireless signal transmission and information-hiding from adversaries. In recent years, CDMA has also played a key role in mobile telephony as a multiple-access technique because of certain properties that make it suitable for commercial and civilian applications. This paper gives a brief exposition on CDMA as a signal encryption technique, and the position that it occupies in future wireless technology. This paper also compares CDMA technology with a relatively recent technique, interleave-division multiple-access (IDMA) that has been attracting significant attention in wireless circles."
+    ,
+    "8":
+    
+      "Effect of Varying Node Mobility in the Analysis of Black Hole Attack on MANET Reactive Routing Protocols  Mobile Ad-hoc Networks (MANETs) features such as open medium, dynamic topology, lack of centralised management and lack of infrastructure expose them to a number of security attacks. Black hole attack is one type of attack that is more common in MANET reactive routing protocols such as Ad-hoc On-demand Distance Vector (AODV) and Dynamic Source Routing (DSR). Black hole attack takes advantage of route discovery process in reactive routing protocols. In this type of attack, a malicious node misleads other nodes in the network by pretending to have the shortest and updated route to a target node whose packets it wants to interrupt. It then redirects all packets destined to a target node to itself and discards them instead of forwarding. This paper analyses the performance of AODV and DSR when attacked by black hole, by varying the mobility of the nodes in the network. The analysis is carried out by simulating scenarios of AODV based MANET and DSR based MANET using Network Simulator 2 (NS-2) and introducing the black hole attack in each of the scenarios. The different scenarios are generated by changing the mobility of the nodes. The performance metrics that are used to do the analysis are throughput, packet delivery ratio and end-to-end delay. The simulation results show that the performance of both AODV and DSR degrades in the presence of black hole attack. Throughput and packet delivery ratio decrease when the network is attacked by black hole because the malicious node absorbs or discards some of the packets. End-to-end delay is also reduced in the presence of a black hole attack because a malicious node pretends to have a valid route to destination without checking the routing table, and therefore shortens the route discovery process. The results also show that throughput decreases slightly when mobility of the nodes is increased in the network. The increase in the speed of the nodes decreases both end-to-end delay and packet delivery ratio."
+    ,
+    "9":
+    
+      "The Pattern-richness of Graphical Passwords Conventional (text-based) passwords have shown patterns such as variations on the username, or known passwords such as ”password”, ”admin” or ”12345”. Patterns may similarly be detected in the use of Graphical passwords (GPs). The most significant such pattern – reported by many researchers – is hotspot clustering. This paper qualitatively analyses more than 200 graphical passwords for patterns other than the classically reported hotspots. The qualitative analysis finds that a significant percentage of passwords fall into a small set of patterns; patterns that can be used to form attack models against GPs. In counter action, these patterns can also be used to educate users so that future password selection is more secure. It is the hope that the outcome from this research will lead to improved behaviour and an enhancement in graphical password security."
+    ,
+    "10":
+    
+      "Dridex: analysis of the traffic and automatic generation of IOCs In this paper we present a framework that generates network Indicators of Compromise (IOC) automatically from a malware sample after dynamic runtime analysis. The framework addresses the limitations of manual Indicator of Compromise generation and utilises sandbox environment to perform the malware analysis in. We focus on the generation of network based IOCs from captured traffic files (PCAPs) generated by the dynamic malware analysis. The Cuckoo Sandbox environment is used for the analysis and the setup is described in detail. Accordingly, we discuss the concept of IOCs and the popular formats used as there is currently no standard. As an example of how the proof-of-concept framework can be used, we chose 100 Dridex malware samples and evaluated the traffic and showed what can be used for the generation of network-based IOCs. Results of our system confirm that we can create IOCs from dynamic malware analysis and avoid the legitimate background traffic originating from the sandbox system. We also briefly discuss the sharing of, and application of the generated IOCs and the number of systems that can be used to share them. Lastly we discuss how they can be useful in combating cyber threats."
+    ,
+    "11":
+    
+      "Context Aware Mobile Application for Mobile Devices Android smart devices have become an integral part of peoples lives, having evolved beyond the capability of just sending a text message or making a call. Currently, smart devices have applications that can restrict access to other applications on the same device, implemented through user authentication. Android smart devices offer the capability of Android Smart Lock, which uses different authentication methods for unlocking the device based on the users location. However, Android Smart Lock does not allow locking for individual applications. A possible solution to this limitation is an application that performs user authentication using a context-aware approach. This paper proposes a context-aware application, which provides different user authentication methods that are set up according to the auto-detection of areas designated as safe zones by the user. This application aims to improve the overall security of the content of a given device by securing individual applications."
+    ,
+    "12":
+    
+      "Team Formation in Digital Forensics A major problem in Digital Forensics (DF) is the often huge volumes of data that has to be searched, filtered, and indexed to discover patterns that could lead to forensic evidence. The nature of, and the process by which the data was collected also means that the data contain information about persons that are not involved, or only incidentally involved in the crime under investigation. Privacy is therefore another potential issue that needs to be dealt with in a DF investigation. This paper shows that techniques of the Team Formation (TF) task can be used to address both of these problems. The TF task can be formulated to fit the DF arena: to commit a crime, the culprit(s) may require the assistance of several other individuals, which implies that a team of some sort gets established. During a post-mortem DF analysis, an investigator may only have one, or a few names to start with. One of the key challenges is finding possible co-conspirators. From a TF point of view, the culprit is trying to find the best team to commit the crime. This paper proposes that automated techniques could be used to discover potential teams from the data. The TF task in DF requires the recording of skill-sets, and the generation and/or discovery of a graph depicting interaction between candidates. If the data consist of an email corpus and peoples’ roles in an organisation (such as in the Enron data), both of these are available. We consider the TF problem in general and extend it to the DF arena by considering the information that an investigator may have access to during the investigation."
+    ,
+    "13":
+    
+      "Social Network Phishing: Becoming Habituated to Clicks and Ignorant to Threats With the rise in number of reported phishing cases in statistical reports and online news, it is apparent that the threat of phishing is not retreating. Phishers continuously seek new methods to deceive individuals into sharing their confidential information. As a result, today the traditional form of conducting phishing solely through email and spoofed websites has evolved. Social network phishing is a serious threat as it reaches a far wider audience, consequently affecting both business and private individuals. This paper argues that due to the constant updates of information users are engaged in on social networking sites, users may become habituated to clicking and sharing links, liking posts, copying and pasting messages, and uploading and downloading media content, thus resulting in information overload. This behavioral priming leads users to becoming more susceptible to social engineering attacks on social networks as they do not cognitively process messages with a security lens. This paper introduces social network phishing and briefly discusses activities users engage in on social networks sites, thus highlighting the formation of “bad” habits. Further, existing information processing models applicable to this context are discussed."
+    ,
+    "14":
+    
+      "Identity Management for e-Government Libya as a case study Governments are strengthening their identity (ID) management strategies to deliver new and improved online services to their citizens. Such online services typically include applications for different types of permissions, requests for different types of official documents and management of different types of entitlements. The ID management scheme must therefore be able to correctly authenticate citizens and link online presence to real world identities. Many countries, in particular in the developing world, are currently introducing national ID management schemes for the first time. While most of these countries have paper based records, many of these are regionally based and few of these have been consolidated, so these records may contain incorrect, incomplete, inconsistent or redundant information. In this paper, we explore the design space for national ID management and online authentication schemes, in this context. In particular, we propose a simple model for issuing national ID numbers that satisfy these goals and use this model to examine two different ID management schemes implemented in Libya, which allows us to compare different approaches to national identity management. The two schemes were implemented within a fairly short time, so we may assume that the cultural, social, educational and technological factors remain unchanged. This allows a direct comparison of objectives and means. Based on this examination, we evaluate the current Libyan ID number system with respect to the identified objectives. Our evaluation of the two Libyan NID schemes show that if National Identity Management does not fully meet the requirements identified in our simple model, then it may be vulnerable to various forms of online risks such as impersonation and identity theft attacks. Considering online crime, during the design of an Identity Management system, is especially important in developing countries, where such crimes have not previously existed in the society."
+    ,
+    "15":
+    
+      "Recognizing Surgically Altered Faces using Local Edge Gradient Gabor Magnitude Pattern For humans, every face is unique and can be recognized amongst similar faces. This is yet to be so for machines. Our assumption is that beneath the uncertain primitive visual features of face images are intrinsic structural patterns that uniquely distinguish a sample face from those of other faces. In order to unlock the intrinsic structural patterns, this paper presents in a typical face recognition framework a new descriptor, namely the local edge gradient Gabor magnitude (LEGGM) descriptor. LEGGM first of all uncovers the primitive inherent structural pattern (PISP) locked in every pixel through determining the pixel gradient in relation to its neighbors. Then, the resulting output is embedded in the pixel original (grey-level) pattern using additive function. This forms a pixel’s complete structural pattern, which is further encoded using Gabor wavelets to encode the frequency characteristics of the resulting pattern. From these steps emerges an efficient descriptor for describing every pixel point in a face image. The proposed descriptor-based face recognition method shows impressive results over contemporary descriptors on the Plastic surgery database despite using a base classifier and without employing subspace learning. The ability of the descriptor to be adapted to real-world face recognition scenario is demonstrated by running experiments with a heterogeneous database."
+    ,
+    "16":
+    
+      "Full packet analysis on firewalls and intrusion detection, although effective, has been found in recent times to be detrimental to the overall performance of networks that receive large volumes of throughput. For this reason partial packet analysis technologies such as the NetFlow protocol have emerged to better mitigate these bottlenecks through log generation. This paper researches the use of log files generated by NetFlow version 9 and IPFIX to identify successful and unsuccessful exploit attacks commonly used by automated systems. These malicious communications include but are not limited to exploits that attack Microsoft RPC, Samba, NTP (Network Time Protocol) and IRC (Internet Relay Chat). These attacks are recreated through existing exploit implementations on Metasploit and through hand-crafted reconstructions of exploits via known documentation of vulnerabilities. These attacks are then monitored through a preconfigured virtual testbed containing gateways and network connections commonly found on the Internet. This common attack identification system is intended for insertion as a parallel module for Bolvedere in order to further the increase the Bolvedere system’s attack detection capability"
+    ,
+    "17":
+    
+      "Unsupervised Learning for Robust Bitcoin Fraud Detection The rampant absorption of Bitcoin as a cryptographic currency, along with rising cybercrime activities, warrants utilization of anomaly detection to identify potential fraud. Anomaly detection plays a pivotal role in data mining since most outlying points contain crucial information for further investigation. In the financial world which the Bitcoin network is part of by default, anomaly detection amounts to fraud detection. This paper investigates the use of trimmed k-means, that is capable of simultaneous clustering of objects and fraud detection in a multivariate setup, to detect fraudulent activity in Bitcoin transactions. The proposed approach detects more fraudulent transactions than similar studies or reports on the same dataset."
+    
+    }
+
+}
