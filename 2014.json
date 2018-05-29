@@ -1,0 +1,198 @@
+{
+  "title":{"0":
+      
+      "An Exploration of Geolocation and Traffic Visualisation Using Network Flows"
+    ,
+      "1":
+      "An Investigation into Reducing Third Party Privacy Breaches During the Investigation of Cybercrime"
+    ,
+    "2":
+      
+      "Combatting Phishing: A Holistic Human Approach"
+    ,
+    "3":
+      
+      "Concerns Regarding Service Authorization by IP address using eduroam"
+    ,
+    "4":
+      
+      "Considering the influence of human trust in practical social engineering exercises"
+    ,
+    "5":
+      
+      "From Information Security to Cyber Security Cultures Organizations to Societies"
+    ,
+    "6":
+      
+      "Information Security Assurance Model (ISAM) for an Examination Paper Preparation Process"
+    ,
+    "7":
+      
+      "Information Security Culture: A General Living Systems Theory Perspective"
+    ,
+    "8":
+      
+      "Security Foundation for a Distributed Cabin Core Architecture"
+    ,
+    "9":
+      
+      "Social Engineering Attack Framework"
+    ,
+    "10":
+      
+      "The Murky Waters of IT Governance "
+    ,
+    "11":
+      
+      "Towards a Sandbox for the Deobfuscation and Dissection of PHP Malware"
+    ,
+    "12":
+      
+      "A digital forensic model for providing better data provenance in the cloud "
+    ,
+    "13":
+      
+      "A survey of trust issues constraining the growth of Identity Management-as-a-Service(IdMaaS)"
+    ,
+    "14":
+      
+      "Exploring End-User Smartphone Security Awareness within a South African context"
+    ,
+    "15":
+      
+      "Is Bring Your Own Device an institutional information security risk for small-scale business organisations?"
+    ,
+    "16":
+      
+      "Mobile Forensics using the Harmonised Digital Forensic Investigation Process"
+    ,
+    "17":
+    
+      "On a Domain Block Based Mechanism to Mitigate DoS Attacks on Shared Caches in Asymmetric Multiprocessing Multi Operating Systems"
+    ,
+    "18":
+      
+      "Online safety in South Africa a cause for growing concern"
+    ,
+    "19":
+      
+      "Privacy A Review of Publication Trends"
+    ,
+    "20":
+      
+      "Security Objectives, Controls and Metrics Development for an Android Smartphone Application"
+    ,
+    "21":
+      
+      "Testing antivirus engines to determine their effectiveness as a security layer"
+    ,
+    "22":
+      
+      "The role of triggers in database forensics "
+    ,
+    "23":
+      
+      "Towards a Prototype for Guidance and Implementation of a Standardized Digital Forensic Investigation Process"
+    
+  },
+
+
+    "abstracts":{"0":
+    
+      "An Exploration of Geolocation and Traffic Visualisation Using Network Flows A network flow is a data record that represents characteristics associated with a unidirectional stream of packetstransmitted between two hosts using an IP layer protocol. Asa network flow only represents statistics relating to the data transferred in the stream, the effectiveness of utilizing network flows for traffic visualization to aid in cyber defense is not immediately apparent and needs further exploration. The goal of this research is to explore the use of network flows for data visualization and geolocation. A prototype system capable of collecting network flows exported using the NetFlow version 9 protocol was designed and implemented as part of this research to aid in the exploration. This prototype system processes the collected flow records and renders the geolocated results on an web based interactive map. Using conformance testing it is shown that the prototype system is capable of collecting network flows and generating geolocated flow events withing 50 milliseconds of receiving the raw flow records on the test platform. The system also provides functionality for the generation of heatmaps and tools for replaying flow events from the client browser for further visual analysis. A reporter tool has also been developed to produce monthly reports on the collected network flows."
+    ,
+    "1":
+    
+      "An Investigation into Reducing Third Party Privacy Breaches During the Investigation of Cybercrime In this article we continue previous work in which a framework for preventing or limiting a privacy breach of a third party during the investigation of cybercrime. The investigations may be conducted internally (by the enterprise), or externally (by a third party, or a law enforcement agency) depending on the jurisdiction and context of the case. In many cases, an enterprise will conduct an internal investigation against some allegation of wrongdoing by an employee, or a client. In these cases maintaining the privacy promise made to other clients or customers is an ideal that the enterprise may wish to honour, especially if the image or brand of the enterprise may be impacted when the details of the process followed during the investigation becomes clear. The article reports on the results of the implementation of the privacy breach detection – it also includes lessons learned, and proposes further steps for refining the breach detection techniques and methods for future digital forensic investigation."
+    ,
+    "2":
+    
+      "Combatting Phishing: A Holistic Human Approach Phishing continues to remain a lucrative market for cyber criminals, mostly because of the vulnerable human element. Through emails and spoofed-websites, phishers exploit almost any opportunity using major events, considerable financial awards, fake warnings and the trusted reputation of established organizations, as a basis to gain their victims’ trust. For many years, humans have often been referred to as the ‘weakest link’ towards protecting information. To gain their victims’ trust, phishers continue to use sophisticated looking emails and spoofed websites to trick them, and rely on their victims’ lack of knowledge, lax security behavior and organizations’ inadequate security measures towards protecting itself and their clients. As such, phishing security controls and vulnerabilities can arguably be classified into three main elements namely human factors (H), organizational aspects (O) and technological controls (T). All three of these elements have the common feature of human involvement and as such, security aaps are inevitable. Each element also functions as both security control and security vulnerability. A holistic framework towards combatting phishing is required whereby the human feature in all three of these elements is enhanced by means of a security education, training and awareness programme. This paper discusses the educational factors required to form part of a holistic framework, addressing the HOT elements as well as the relationships between these elements towards combatting phishing. The development of this framework uses the principles of design science to ensure that it is developed with rigor. Furthermore, this paper reports on the verification of the framework"
+    ,
+    "3":
+    
+      "Concerns Regarding Service Authorization by IP address using eduroam eduroam is a secure WLAN roaming service between academic and research institutions around the globe. It allows users from participating institutions secure Internet access at any other participating visited institution using their home credentials. The authentication credentials are verified by the home institution, while authorization is done by the visited institution. The user receives an IP address in the range of the visited institution, and accesses the Internet through the firewall and proxy servers of the visited institution. However, access granted to services that authorize via an IP address of the visited institution may include access to services that are not allowed at the home institution, due to legal agreements. This paper looks at typical legal agreements with service providers and explores the risks and countermeasures that need to be considered when using eduroam"
+    ,
+    "4":
+    
+      "Considering the influence of human trust in practical social engineering exercises  There are numerous technical advances in the field of information security. However, the application of information security technologies alone is often not sufficient to address security issues. Human factors play an increasing role in securing computer assets and are often detrimental to the security of an organisation. One of the salient aspects of security, which is linked to humans, is trust. It is safe to assume that trust will play an important role in any information security environment and may influence security behaviour significantly. In this paper the results of a practical phishing exercise and a trust survey are considered. The research project is part of a larger project and the phishing exercise is a follow-up to an earlier first practical phishing test. Results of the phishing test are compared with the first exercise. In addition, the newly obtained trust information from the survey is also incorporated into the report in order to try and explain security behaviour. The research was performed at a large organisation. Results indicate that although there is a general high level of trust in the organisation’s ability to provide safe and secure information systems, a large number of staff was still victim to a simple phishing exercise. A possible explanation, which opens up further avenues for research, is offered."
+    ,
+    "5":
+    
+      "From Information Security to Cyber Security Cultures Organizations to Societies Currently, all Internet and ICT users need basic levels of cyber security awareness and knowledge to perform their daily activities securely. Many security specialists and, indeed, nations are acknowledging the need for populaces to be aware of and educated about being more cyber secure. To achieve cyber security in current populations and to ensure continuity in future populaces, a “self-renewing” belief which affects behavior is needed. In an organizational context this need is met through the fostering of an information security culture (ISC). Similarly, in a societal context a cyber security culture (CSC) ought to be fostered. This raises the question of what precisely would constitute a CSC and how it differs from an ISC. The objective of this paper is to propose ways in which a CSC may be defined and viewed in comparison to an ISC."
+    ,
+    "6":
+    
+      "Information Security Assurance Model (ISAM) for an Examination Paper Preparation Process This paper has critically assessed a Higher Education Institution’s (HEI) Examination Paper Preparation Process (EPPP) to identify threats and vulnerabilities that could place the security of the process at a risk; thus, compromising the security of the examination papers. Surveys were utilized to identify examiners’ behaviour which could pose a risk to the security of the examination papers. The paper further highlights the vital role the human factor plays in ensuring that the EPPP is secure. The paper proposes an Information Security Assurance Model (ISAM) that is based on information security principles and best practices to manage and improve the security of the EPPP. The model provides a step-by-step guide which could be followed to ensure that relevant information security aspects are covered to ensure that examination papers are handled more securely. The aim of the model is to ensure that examination papers are not accessible to unauthorized individuals; which, may lead to some students being conferred with qualifications that they do not deserve."
+    ,
+    "7":
+    
+      "Information Security Culture: A General Living Systems Theory Perspective Information security culture (ISC) is often acknowledged as being a vital subculture within an organizational culture. As a subculture, its purpose is to fulfil its security purpose, while integrating into, and supporting, the broader organizational culture. However, in contrast, few discussions of ISCs acknowledge that the ISC itself is comprised of subcultures. The research literature’s lack of exploration of this nested nature of ISC may be hindering in-depth understanding of the ISC as a system within itself, as well as within the broader organizational culture. This paper will therefore address this by straying from traditional views of ISCs. We will examine an ISC as a self-managing, self-repairing collective of multiple ISCs which meet the organizational culture’s security needs. The paper’s objective is to show that an ISC can be viewed and understood as a living system."
+    ,
+    "8":
+    
+      "Security Foundation for a Distributed Cabin Core Architecture Aircraft cabin networks support various functionalities, from entertainment to safety-critical functions such as passenger announcements or light control. For cost, efficiency, energy-reduction and weight architectures for cabin networks should be optimized with respect to required resources and cable in the cabin. This motivates multi-domain architectures. The approach presented in this paper uses hardware-based security to realize a secure efficient multi-domain architecture for cabin networks."
+    ,
+    "9":
+    
+      "Social Engineering Attack Framework The field of information security is a fast growing discipline. Even though the effectiveness of security measures to protect sensitive information is increasing, people remain susceptible to manipulation and the human element is thus a weak link. A social engineering attack targets this weakness by using various manipulation techniques in order to elicit sensitive information. The field of social engineering is still in its infancy stages with regards to formal definitions and attack frameworks. This paper proposes a social engineering attack framework based on Kevin Mitnick’s social engineering attack cycle. The attack framework addresses shortcomings of Mitnick’s social engineering attack cycle and focuses on every step of the social engineering attack from determining the goal of an attack up to the successful conclusion of the attack. The authors use a previously proposed social engineering attack ontological model which provides a formal definition for a social engineering attack. The ontological model contains all the components of a social engineering attack and the social engineering attack framework presented in this paper is able to represent temporal data such as flow and time. Furthermore, this paper demonstrates how historical social engineering attacks can be mapped to the social engineering attack framework. By combining the ontological model and the attack framework, one is able to generate social engineering attack scenarios and to map historical social engineering attacks to a standardised format. Scenario generation and analysis of previous attacks are useful for the development of awareness, training purposes and the development of countermeasures against social engineering attacks."
+    ,
+    "10":
+    
+      " The Murky Waters of IT Governance This paper conceptually explores the existing IT governance literature and reveals that the concept remains an evolving and ‘murky’ phenomenon. Specifically, it highlights that as IT governance continues to evolve, it emerges in ever-new forms with increasing complexity and confusion. This is especially true, when studying the various differing definitions and terms applied within current literature and the nature and breadth of discussion. Even more so, when taking into account the whirlpool of standards and best practices currently operating within this domain. All of this leads to a lack of clarity, having the potential to confuse and possibly impede useful development and research in the field. Using content analysis, argumentation and modelling, this paper sets out to review and model a possible reform to the IT governance landscape. Hereby, it aims to offer much-needed clarity, provide a frame of reference and guide future research in the field"
+    ,
+    "11":
+    
+      "Towards a Sandbox for the Deobfuscation and Dissection of PHP Malware The creation and proliferation of PHP-based Remote Access Trojans (or web shells) used in both the compromise and post exploitation of web platforms has fuelled research into automated methods of dissecting and analysing these shells. Current malware tools disguise themselves by making use of obfuscation techniques designed to frustrate any efforts to dissect or reverse engineer the code. Advanced code engineering can even cause malware to behave differently if it detects that it is not running on the system for which it was originally targeted. To combat these defensive techniques, this paper presents a sandboxbased environment that aims to accurately mimic a vulnerable host and is capable of semi-automatic semantic dissection and syntactic deobfuscation of PHP code."
+    ,
+    "12":
+    
+      "A digital forensic model for providing better data provenance in the cloud  The cloud has made digital forensic investigations exceedingly difficult due to the fact that data may be spread over an ever-changing set of hosts and data centres. The normal search and seizure approach that digital forensic investigators tend to follow does not scale well in the cloud because it is difficult to identify the physical devices that data resides on. In addition, the location of these devices is often unknown or unreachable. A solution to identifying the physical device can be found in data provenance. Similar to the tags included in an email header, indicating where the email originated, a tag added to data, as it is passed on by nodes in the cloud, identifies where the data came from. If such a trace can be provided for data in the cloud it may ease the investigating process by indicating where the data can be found. In this research the authors propose a model that aims to identify the physical location of data, both where it originated and where it has been as it passes through the cloud. This is done through the use of data provenance. The data provenance records will provide digital investigators with a clear record of where the data has been and where it can be found in the cloud."
+    ,
+    "13":
+    
+      "A survey of trust issues constraining the growth of Identity Management-as-a-Service(IdMaaS)  Identity management-as-a-service (IdMaaS) is a cloud computing service where the identity management function is moved to the cloud, streamlining the responsibilities of the computing or IT departments of organisations. IdMaaS‘s attractiveness leans on reduced cost of ownership, least to no capital investment, scalability, self-service, location independence and rapid deployment, however, its growth has been impeded by issues most of which are related to security, privacy and trust. Most organisations view identities as passports to key computing resources (hardware, software and data) as such they view identity management as a core IT function which must remain within the perimeter of sphere of control. This paper primarily aims to discuss IdMaaS and highlight the major trust issues in current existing cloud computing environments affecting the growth of IdMaaS by describing IdMaaS and surveying the trust issues that pose threats to its growth. Highlighting the trust issues hampering the growth of IdMaaS will lay a foundation for subsequent research efforts directed at addressing trust issues and therefore enhancing the growth of IdMaaS. Consequently the growth of IdMaaS will open up a new entrepreneurial avenue for service providers, at the same time enabling IdMaaS consumers to realise the benefits which come along with cloud computing. In future, we will analyse and evaluate the extent of impact posed by each trust issue to IdMaaS"
+    ,
+    "14":
+    
+      "Exploring End-User Smartphone Security Awareness within a South African context International research has shown that users are complacent when it comes to smartphone security behaviour. This is contradictory, as users perceive data stored on the ‘smart’ devices to be private and worth protecting. Traditionally less attention is paid to human factors compared to technical security controls (such as firewalls and antivirus), but there is a crucial need to analyse human aspects as technology alone cannot deliver complete security solutions. Increasing a user’s knowledge can improve compliance with good security practices, but for trainers and educators to create meaningful security awareness materials they must have a thorough understanding of users’ existing behaviours, misconceptions and general attitude towards smartphone security. The primary purpose of this research was to assess the level of smartphone security awareness displayed by the public, determining whether a general level of security complacency exists amongst smartphone users. The study was undertaken in a South African context (a multi-cultural developing nation) and included demographics as a variable in assessing any differences in smartphone security awareness between population groups. A modified version of the instrument developed by [1] was used. A survey of 619 South African users examined trust of smartphone application repositories, users’ considerations when installing new applications and their use of protection mechanisms (security controls). The sample proved complacent in their smartphone security behaviours with users displaying high levels of trust towards smartphone application repositories, rarely considering privacy and security considerations when installing new applications and also not adequately protecting themselves through adopting smartphone protection mechanisms (controls). The research did not find any conclusive associations to suggest that a user’s home language impacts their information security behaviour or trust. However, an association between IT expertise and the adoption of smartphone security controls was found."
+    ,
+    "15":
+    
+      "Is Bring Your Own Device an institutional information security risk for small-scale business organisations? The use of employees’ own mobile devices, under the pretext of ‘bring your own device’ (BYOD), to access vital information assets has far reaching implications for an organisation’s information security. BYOD is a potential solution to information technology budget constraints and also a means  increase employee satisfaction regarding the usage of one’s own devices at the work place. This practice challenges the conventional philosophy that only an organisation’s devices should be used to access critical organisational information. However, BYOD practice has security concerns associated with it. An organisation that adopts BYOD may find it difficult to account for and manage the various devices employees may use, and control how those devices are used. There are fears that some small-scale organisations may adopt the BYOD strategy too soon placing themselves and their data at risk. BYOD could be an additional security problem which an organisation has to contend with. This paper acknowledges the positive contributions that BYOD could make to organisations. It also discusses the bases on which BYOD could be treated as an institutionalised information security risk for many small-scale organisations which adopt it. The purpose of this paper is to critically analyse and assess both the benefits and risks associated with BYOD that may militate against its adoption by small-scale organisations in emerging economies. The paper also seeks to establish whether BYOD is an institutionalised information security risk or not."
+    ,
+    "16":
+    
+      "Mobile Forensics using the Harmonised Digital Forensic Investigation Process Mobile technology is among the fastest developing technologies that have changed the way we live our daily lives. Over the past few years, mobile devices have become the most popular form of communication around the world. However, bundled together with the good and advanced capabilities of the mobile technology, mobile devices can also be used to perform various activities that may be of malicious intent or criminal in nature. This makes mobile devices a valuable source of digital evidence. For this reason, the technological evolution of mobile devices has raised the need to develop standardised investigation process models and procedures within the field of digital forensics. This need further supports the fact that forensic examiners and investigators face challenges when performing data acquisition in a forensically sound manner from mobile devices. This paper, therefore, aims at testing the harmonised digital forensic investigation process through a case study of a mobile forensic investigation. More specifically, an experiment was conducted that aims at testing the performance of the harmonised digital forensic investigation process (HDFIP) as stipulated in the ISO/IEC 27043 draft international standard through the extraction of potential digital evidence from mobile devices."
+    ,
+    "17":
+    
+      "On a Domain Block Based Mechanism to Mitigate DoS Attacks on Shared Caches in Asymmetric Multiprocessing Multi Operating Systems Asymmetric multiprocessing (AMP) based multiOSs are going to be established in future to enable parallel execution of different functionalities while fulfilling requirements for real-time, reliability, trustworthiness and security. Especially for in-car multimedia systems, also known as InVehicle Infotainment (IVI) systems, the composition of different OS-types onto a system-on-chip (SoC) offers a wide variety of advantages in embedded system development. However, the asymmetric paradigm, which implies the division and assignment of every hardware resource to OS-domains, is not applicable to every part of a system-on-chip (SoC). Caches are often shared between multiple processors on multi processor SoCs (MP-SoC). According to their association to the main memory, OSs running on the processor cores are naturally vulnerable to DoS attacks. An adversary who has compromised one of the OS-domains is able to attack an arbitrary memory location of a co-OS-domain. This introduces performance degradations on victim’s memory accesses. In this work a method is proposed which prohibits the surface for interference, introduced by the association of cache and main memory. Therefore, the contribution of this article is twofold. It introduces an attack vector, by deriving an algorithm from the cache way associativity, to affect the coOSs running on the same platform. Using this vector it is shown that the mapping of contiguous memory blocks intensifies the effect. Subsequently, a memory mapping method is proposed which mitigates the interference effects of cache coherence. The approach is evaluated by a proof-of-concept implementation, which illustrates the performance impact of the attack and the countermeasure, respectively. The method enables a more reliable implementation of AMP-based multi-OSs on MP-SoCs using shared caches without the need to modify the hardware layout."
+    ,
+    "18":
+    
+      "Online safety in South Africa a cause for growing concern We live in a technology-driven world, where information communication technology (ICT) is increasingly affordable, obtainable and accessible to all technology users, especially to school learners. Information communication technologies (ICTs) include a wide range of devices such as mobile phones, internet access, tablets and desktops. More and more school learners are exposed to ICT devices at school, at home and among friends. Besides being used for social purposes, these devices greatly assist school learners with education. However, a number of disadvantages in the form of risks and threats also prevail if learners do not protect themselves and their personal information. ICT or online risks are a cause for growing concern, and awareness and education are urgently required to ensure that school learners understand the risks and threats and how to avoid them. A number of countries have already started to focus on online safety, but South Africa is numbered among those that are falling behind. This paper investigates the current online safety situation of high school learners in South Africa. A number of short- and long-term initiatives are proposed for incorporating online safety into the school environment in an effort to improve online safety among school learners in South Africa."
+    ,
+    "19":
+    
+      "Privacy A Review of Publication Trends The huge growth in digital data and the commercialisation of personal information has brought privacy to the forefront of world legislation. The impact and growth of the Internet, digitisation of data, network connectivity and data sharing has required a number of new threats to be addressed. As the technological environment has expanded since the 1960’s and the use of electronic commerce has become more ubiquitous, so the concern around privacy and personal information protection has increased. Privacy is important at various levels and allows people to develop their individuality apart from the groups to which they belong and offers them the ability to decide what face they want others to see. Based on the recent Snowden leaks there is currently a heightened interest in privacy and related issues worldwide. The IEEE Security & Privacy magazine is one of the leading publications devoted to privacy, providing articles with both a practical and research focus by leading thinkers within the security and privacy field. The magazine has a broad audience which includes practitioners, researchers and policy-makers. The objective of this paper is to provide a systematic review of how privacy has been reported in the magazine over the past decade. The paper examines the shifts of privacy within the information security domain, with particular interest to the past three years which have seen revisions and amendments in various national privacy policies. In addition to reviewing the magazine there is input from the magazine’s current editor, who shares her views and insights on both the magazine and privacy in general. Findings show that over the period 2011–2013, privacy articles were predominantly driven by academic research, with the majority of security articles coming from within industry. There is little evidence that privacy has become a more dominant topic over the past ten years. While data loss and security breaches have escalated over the past decade the topic of privacy has taken second place to security"
+    ,
+    "20":
+    
+      "Security Objectives, Controls and Metrics Development for an Android Smartphone Application Security in Android smartphone platforms deployed in public safety and security mobile networks is a remarkable challenge. We analyse the security objectives and controls for these systems based on an industrial risk analysis. The target system of the investigation is an Android platform utilized for public safety and security mobile network. We analyse how a security decision making regarding this target system can be supported by effective and efficient security metrics. In addition, we describe implementation details of security controls for authorization and integrity objectives of a demonstration of the target system."
+    ,
+    "21":
+    
+      "The role of triggers in database forensics Testing antivirus engines to determine their effectiveness as a security layer This research has been undertaken to empirically test the assumption that it is trivial to bypass an antivirus application and to gauge the effectiveness of antivirus engines when faced with a number of known evasion techniques. A known malicious binary was combined with evasion techniques and deployed against several antivirus engines to test their detection ability. The research also documents the process of setting up an environment for testing antivirus engines as well as building the evasion techniques used in the tests. This environment facilitated the empirical testing that was needed to determine if the assumption that antivirus security controls could easily be bypassed. The results of the empirical tests are also presented in this research and demonstrate that it is indeed within reason that an attacker can evade multiple antivirus engines without much effort. As such while an antivirus application is useful for protecting against known threats, it does not work as effectively against unknown threats."
+    ,
+    "22":
+    
+      "An aspect of database forensics that has not received much attention in the academic research community yet is the presence of database triggers. Database triggers and their implementations have not yet been thoroughly analysed to establish what possible impact they could have on digital forensic analysis methods and processes. Conventional database triggers are defined to perform automatic actions based on changes in the database. These changes can be on the data level or the data definition level. Digital forensic investigators might thus feel that database triggers do not have an impact on their work. They are simply interrogating the data and metadata without making any changes. This paper attempts to establish if the presence of triggers in a database could potentially disrupt, manipulate or even thwart forensic investigations. The database triggers as defined in the SQL standard were studied together with a number of database trigger implementations. This was done in order to establish what aspects might have an impact on digital forensic analysis. It is demonstrated in this paper that some of the current database forensic analysis methods are impacted by the possible presence of certain types of triggers in a database. Furthermore, it finds that the forensic interpretation and attribution processes should be extended to include the handling and analysis of database triggers if they are present in a database."
+    ,
+    "23":
+    
+      "Towards a Prototype for Guidance and Implementation of a Standardized Digital Forensic Investigation Process Performing a digital forensic investigation requires a standardized and formalized process to be followed. There currently is neither an international standard formalizing such process nor does a global, harmonized digital forensic investigation process exist. Further, there exists no application that would guide a digital forensic investigator to efficiently implement such a process. This paper proposes the implementation of such a prototype in order to cater for this need. A comprehensive and harmonized digital forensic investigation process model has been proposed by the authors in their previous work and this model is used as a basis of the prototype. The prototype is in the form of a software application which would have two main functionalities. The first functionality would be to act as an expert system that can be used for guidance and training of novice investigators. The second functionality would be to enable reliable logging of all actions taken within the processes proposed in a comprehensive and harmonized digital forensic investigation process model. Ultimately, the latter functionality would enable the validation of use of a proper process. The benefits of such prototype include possible improvement in efficiency and effectiveness of an investigation due to the fact that clear guidelines will be provided when following the process for the course of the investigation. Another benefit includes easier training of novice investigators. The last, and possibly most important benefit, includes that higher admissibility of digital evidence as well as results and conclusions of digital forensic investigations will be possible due to the fact that it will be easier to show that the correct standardized process was followed."
+   
+    }
+
+}
