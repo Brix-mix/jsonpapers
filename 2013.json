@@ -1,0 +1,242 @@
+{
+  "title":{"0":
+      
+      "A Compliant Assurance Model for Assessing the Trustworthiness of Cloud-based E-Commerce Systems"
+    ,
+      "1":
+      "A High-level Architecture for Efficient Packet Trace Analysis on GPU Co-processors"
+    ,
+    "2":
+      
+      "A Software Gateway to Affordable and Effective Information Security Governance in SMMEs"
+    ,
+    "3":
+      
+      "Amber: A Zero-Interaction Honeypot and Network Enforcer with Modular Intelligence"
+    ,
+    "4":
+      
+      "Challenges to Digital Forensics A Survey of Researchers & Practitioners Attitudes and Opinions"
+    ,
+    "5":
+      
+      "Digital Forensic Readiness in the Cloud"
+    ,
+    "6":
+      
+      "Factors Affecting User Experience with Security Features A Case Study of an Academic Institution in Namibia"
+    ,
+    "7":
+      
+      "Implementation Guidelines for a Harmonised Digital Forensic Investigation Readiness Process Model"
+    ,
+    "8":
+      
+      "Information Security Risk Management in SmallScale Organisations A Case Study of Secondary Schools Computerised Information Systems"
+    ,
+    "9":
+      
+      "Insider Threat Detection Model for the Cloud"
+    ,
+    "10":
+      
+      "Real-time Distributed Malicious Traffic Monitoring for Honeypots and Network Telescopes."
+    ,
+    "11":
+      
+      "Selection and Ranking of Remote Hosts for Digital Forensic Investigation in a Cloud Environment"
+    ,
+    "12":
+      
+      "Social Engineering from a Normative Ethics Perspective"
+    ,
+    "13":
+      
+      "Testing the Harmonised Digital Forensic Investigation Process Model using an Android Mobile Phone "
+    ,
+    "14":
+      
+      "Towards a Framework for Enhancing Potential Digital Evidence Presentation"
+    ,
+    "15":
+      
+      "Visualization Of A Data Leak How Can Visualization Assist To Determine The Scope Of An Attack?"
+    ,
+    "16":
+      
+      "A Conceptual Opportunity-based Framework to Mitigate the Insider Threat"
+    ,
+    "17":
+    
+      "A Kernel-Driven Framework for High Performance Internet Routing Simulation"
+    ,
+    "18":
+      
+      "An Analysis of Service Degradation Attacks against Real-Time MPLS Networks"
+    ,
+    "19":
+      
+      "Bimodal Biometrics for Financial Infrastructure Security"
+    ,
+    "20":
+      
+      "Classification of Security Operation Centers"
+    ,
+    "21":
+      
+      "Data Vulnerability Detection by Security Testing for Android Applications"
+    ,
+    "22":
+      
+      "Democratic Detection of Malicious Behaviour in MANET: A Voting Process"
+    ,
+    "23":
+      
+      "Forensic Entropy Analysis of Microsoft Windows Storage Volumes"
+     ,
+    "24":
+      
+      "Security Steps for Smartphone Users"
+     ,
+    "25":
+      
+      "SNIPPET: Genuine Knowledge-Based Authentication"
+     ,
+    "26":
+      
+      "The Characteristics of a Biometric"
+     ,
+    "27":
+      
+      "The Identification of Information Sources to aid with Critical Information Infrastructure Protection"
+     ,
+    "28":
+      
+      "Towards Reputation-as-a-Service"
+    ,
+    "29":
+      
+      "Toward Risk-driven Security Measurement for Android Smartphone Platforms"
+    
+  },
+
+
+    "abstracts":{"0":
+    
+      "A Compliant Assurance Model for Assessing the Trustworthiness of Cloud-based E-Commerce Systems Many cloud-based e-commerce stores aim to attract and retain customers in order to be competitive. However, they are all faced with a challenge regarding gaining and maintaining consumer trust in a volatile cloud-based e-commerce environment where risks pertaining to information security, privacy of information and inadequate monitoring of compliance to applicable laws are prevalent. The pervasiveness of these risks has indirectly propelled the development of web assurance models, which were designed in an attempt to encourage online consumer trust. Regrettably, many of these models have been inadequate in certain areas, such as being unable to provide online real-time assurance on a comprehensive set of attributes, which include a check of compliance to the applicable ecommerce legislation or standards in a cloud-based environment. The aim of this research was to examine whether the integration of the attributes of adaptive legislation, adaptive ISO standards, policies, advanced user security and website availability can be used to develop a compliant assurance model. The model uses an intelligent cooperative rating based on the analytical hierarchy process and page ranking techniques to improve the level of cloud-based trustworthiness. We illustrated in an empirical explanatory survey conducted with 15 test samples from IEEE, Science Direct databases and real life data captured from E-commerce sites that the proposed compliant model strongly contributes to the improvement of cloud-based sites, as well as enhancing the trustworthiness of these websites. The findings of this research study can be used as a reference guide to understand the effectiveness of cloud-based e-commerce assurance models, as well as to enhance the trustworthiness of these models."
+    ,
+    "1":
+    
+      "A High-level Architecture for Efficient Packet Trace Analysis on GPU Co-processors  This paper proposes a high-level architecture to support efficient, massively parallel packet classification, filtering and analysis using commodity Graphics Processing Unit (GPU) hardware. The proposed architecture aims to provide a flexible and efficient parallel packet processing and analysis framework, supporting complex programmable filtering, data mining operations, statistical analysis functions and traffic visualisation, with minimal CPU overhead. In particular, this framework aims to provide a robust set of high-speed analysis functionality, in order to dramatically reduce the time required to process and analyse extremely large network traces. This architecture derives from initial research, which has shown GPU co-processors to be effective in accelerating packet classification to up to tera-bit speeds with minimal CPU overhead, far exceeding the bandwidth capacity between standard long term storage and the GPU device. This paper provides a high-level overview of the proposed architecture and its primary components, motivated by the results of prior research in the field."
+    ,
+    "2":
+    
+      "A Software Gateway to Affordable and Effective Information Security Governance in SMMEs It has been found that many small, medium and micro enterprises (SMMEs) do not comply with sound information security governance principles, specifically those principles involved in drafting information security policies and monitoring compliance, mainly as a result of restricted resources and expertise. Research suggests that this problem occurs worldwide and that the impact it has on SMMEs is great. In previous research an information security governance model was established to assist SMMEs in addressing information security governance issues and concerns. In order to provide SMMEs with a practical approach for applying this model, further research was conducted to establish a software program that demonstrates the model’s practical feasibility. The aim of this paper is to introduce this software program, called The Information Security Governance Toolbox (ISGT), by means of its various components, workings and benefits. Furthermore, a focus-group study’s evaluation results are offered that suggest that the program is useful to SMMEs in addressing their information security governance implementation challenges and offer value for industry."
+    ,
+    "3":
+    
+      "Amber: A Zero-Interaction Honeypot and Network Enforcer with Modular Intelligence For the greater part, security controls are based around the principle of Decision through Detection (DtD). The exception to this is a Honeypot, which analyses interactions between a third party and itself, while occupying a piece of unused information space. As honeypots are not located on productive information resources, any interaction with it can be assumed to be non-productive. This allows the honeypot to make decisions based simply on the presence of data, rather than on the behaviour of the data. But due to limited resources in human capital, honeypots’ uptake in the South African market has been underwhelming. Amber attempts to change this by offering a zero-interaction security system, which will use the honeypot approach of Decision through Presence (DtP) to generate a blacklist of third parties, which can be passed on to a network enforcer. Empirical testing has been done proving the usefulness of this alternative and low cost approach in defending networks. The functionality of the system was also extended by installing nodes in different geographical locations, and streaming their detections into the central Amber hive."
+    ,
+    "4":
+    
+      "Challenges to Digital Forensics A Survey of Researchers & Practitioners Attitudes and Opinions Digital forensics have become increasingly important as an approach to investigate cyber- and computerassisted crime. Whilst many tools exist and much research is being undertaken, many questions exist regarding the future of the domain. Indeed, prior literature has widely published the challenges that exist within the domain, from the increasing volume of data (e.g. SANs, hard drive capacities, databases) to the varying technology platforms and systems that exist (e.g. tablets, mobile phones, embedded systems, cloud computing). However, little effort has focused upon understanding the reality of these challenges. The paper presents research that seeks to identify, quantify and prioritise these challenges so that future efforts can be concentrated on the issues that actually affect the domain. The study undertook a survey of researchers and practitioners (both law enforcement and organisational) to examine the real-challenges from the perceived challenges and to understand what effect the future will have upon the digital forensic domain. A total of 42 participants undertook the study with 55% having 3 or more years of of experience. 45% were academic researchers, 16% law enforcement and 31% had a forensic role within an organisation. Overwhelmingly, 93% of participants felt that the number and complexity of investigations would increase in the future. Apart from the plethora of findings elaborated in the paper, the principal future challenge priorities included cloud computing, anti-forensics and encryption. Respondents also identified, improving communication between researchers and practitioners and the need to develop approaches to identify and extract “significant data” through techniques such as criminal profiling as essential. Interestingly, participants did not feel that the growth in privacy enhancing technologies nor legislation was a significant inhibitor to the future of digital forensics."
+    ,
+    "5":
+    
+      "Digital Forensic Readiness in the Cloud The traditional digital forensic investigation process has always had a post-event driven focus. This process is perhaps too long for the cloud. This paper investigates how digital forensic readiness can be used to quicken and update the traditional digital forensic investigation process to better suit cloud computing environments. John Tans states that centralized logging is the key to efficient forensic strategies. The author proposes a model that considers centralised logging of all activities of all the participants within the cloud in preparation of an investigation. This approach will quicken the acquisition of evidential data when an investigation is required, allowing the investigator to start the analysis and examination almost immediately."
+    ,
+    "6":
+    
+      "Factors Affecting User Experience with Security Features A Case Study of an Academic Institution in Namibia The widespread use of personal computers and other devices based on Information and Communication Technology (ICT) for networking and communication via the Internet exposes the end users to cybercriminals. Security systems and security features that interact with users via alerts, dialogue boxes and action buttons (such as update notices and other warnings) are embedded in operating systems and application programs in order to protect electronic information. Human behaviour and attitudes towards security features determine the user experience during the implementation of Information Security. Cyber criminals are primarily targeting the human aspect of security, since end users are easier to manipulate. In order to effectively secure information, the fields of Usable security and User experience should be integrated in the design and use of security features. This paper presents the findings of an online survey carried out to investigate attitudes towards, behaviour with and experience of embedded security features among members of staff in a tertiary education institution. User experience was measured by enumerating general security awareness, policy awareness and implementation, as well as user behaviour and emotions associated with security interaction. This paper reports on the findings of this survey. The researchers envisage that the findings can lead to the practical development and implementation of a framework for secure user experience"
+    ,
+    "7":
+    
+      "Implementation Guidelines for a Harmonised Digital Forensic Investigation Readiness Process Model Digital forensic investigation readiness enables an organisation to prepare itself in order to perform a digital forensic investigation in a more efficient and effective manner. Benefits of achieving a high level of digital forensic investigation readiness include, but are not limited to, higher admissibility of digital evidence in a court of law, better utilisation of resources (including time and financial resources) and higher awareness of forensic investigation readiness. The problem that this paper addresses is that there is no harmonised digital forensic investigation readiness process model with appropriate implementation guidelines and, thus, there is a lack of an effective and standardised implementation of digital forensic investigation readiness measures within organisations. Valjarevic and Venter have, in their previous work, proposed a harmonised digital forensic investigation readiness process model. This paper proposes implementation guidelines for such a harmonised digital forensic investigation process model in order to help practitioners and researchers to successfully implement the proposed model. The authors believe that these guidelines will significantly help to properly and consistently implement digital forensic readiness measures in different organisations in a bid to achieve higher admissibility of digital evidence in a court of law, as well as more efficient and effective digital forensic investigations."
+    ,
+    "8":
+    
+      "Information Security Risk Management in SmallScale Organisations A Case Study of Secondary Schools Computerised Information Systems The use of computerised information systems has become an integral part of South African secondary schools, bringing about a host of information security challenges that schools have to deal with in addition to their core business of teaching and learning. Schools handle large volumes of sensitive information pertaining to educators, learners, creditors and financial records, which they are obliged to secure. Unfortunately, school management and users are not aware of the risks to their information assets and the repercussions of a compromise thereof. Computerised information systems are susceptible to both internal and external threats but ease of access is likely to manifest in security breaches, thereby undermining information security. One way of enlightening schools about the risks to their computerised information systems is through a risk management programme. Schools may not have the full capacity to perform information security risk management exercises due to the unavailability of risk management experts and scarce financial resources. Therefore, the objective of this paper is to educate secondary schools’ management and users on how to perform a risk management exercise for their computerised information systems in order to reduce or mitigate information security risks within their information systems and protect vital information assets. This study uses the Operationally Critical Threat, Asset, and Vulnerability Evaluation for small organisations (OCTAVESmall) risk management methodology to address these information security risks in two selected secondary schools."
+    ,
+    "9":
+    
+      "Insider Threat Detection Model for the Cloud Cloud computing is a revolutionary technology that is changing the way people and organizations conduct business. It promises to help organizations save money on IT expenditure while increasing reliability, efficiency and productivity. However, despite the potential benefits that the cloud promises its users, it is facing some security challenges. Insider threats are some of the growing security concerns that are hindering the adoption of the cloud. Cloud providers are faced with a challenge of monitoring usage patterns of users so as to ensure that malicious insiders do not compromise the security of customer data and applications. Solutions are still needed to ensure that the data stored in the cloud is secure from malicious insiders of the cloud service provider. This paper presents an Insider Threat Detection Model that can be used to detect suspicious insider activities. An experimental system was designed to implement this model. This system uses sequential rule mining to detect malicious users by comparing incoming events against user profiles"
+    ,
+    "10":
+    
+      "Real-time Distributed Malicious Traffic Monitoring for Honeypots and Network Telescopes Network telescopes and honeypots have been used with great success to record malicious network traffic for analysis, however, this is often done off-line well after the traffic was observed. This has left us with only a cursory understanding of malicious hosts and no knowledge of the software they run, uptime or other malicious activity they may have participated in. This work covers a messaging framework (rDSN) that was developed to allow for the real-time analysis of malicious traffic. This data was captured from multiple, distributed honeypots and network telescopes. Data was collected over a period of two months from these data sensors. Using this data new techniques for malicious host analysis and re-identification in dynamic IP address space were explored. An Automated Reconnaissance (AR) Framework was developed to aid the process of data collection, this framework was responsible for gathering information from malicious hosts through both passive and active fingerprinting techniques. From the analysis of this data; correlations between malicious hosts were identified based on characteristics such as Operating System, targeted service, location and services running on the malicious hosts. An initial investigation in Latency Based Multilateration (LBM), a novel technique to assist in host reidentification was tested and proved successful as a supporting metric for host re-identification."
+    ,
+    "11":
+    
+      "Selection and Ranking of Remote Hosts for Digital Forensic Investigation in a Cloud Environment Cloud computing is a new computing paradigm which presents challenges for digital forensic investigators. Digital forensics is a branch of computer security that makes use of electronic evidence to build up a criminal case or for troubleshooting purposes. Advances have been made since the advent of Cloud computing in addressing issues that came with the Cloud including that of security. However, not all aspects of security are advancing. Developments in digital forensics still leave a lot to be desired in terms of standards and appropriate digital forensic tools that are applicable in the Cloud. To achieve that, standards as well as standard tools are required for successful evidence collection, preservation, analysis and conviction in case of a criminal case. This paper contributes towards addressing issues in digital forensics by presenting an algorithm that can be used in the evidence identification phase of a digital forensic process. Data in Cloud environments exist in the Internet or in networked environments and data is always accessed remotely. There is therefore at least one connection to a host that exists in a Cloud environment. In a case of a computer system that hosts a Cloud service, the number of connections from clients can be very large. In such a scenario it is very hard to identify an attacker from both active and recently disconnected connections to a host. This may require an investigator to probe all individual IP addresses connected to the host which can be time consuming and costly. There is therefore a need for a mechanism that can identify and rank remote hosts that are connected to a victim host and that may be associated with a malicious activity. In this paper we present an algorithm that uses probabilities to identify and rank suspicious remote hosts connected to a victim host. This algorithm helps minimize the effort required of investigators to probe each IP address that is connected to a victim as connected IP addresses will be prioritized according to their rank."
+    ,
+    "12":
+    
+      "Social Engineering from a Normative Ethics Perspective Social engineering is deeply entrenched in both computer science and social psychology. Knowledge on both of these disciplines is required to perform social engineering based research. There are several ethical concerns and requirements that need to be taken into account whilst performing social engineering research on participants to ensure that harm does not come to the participants. These requirements are not yet formalised and most researchers are unaware of the ethical concerns whilst performing social engineering research. This paper identifies several ethical concerns regarding social engineering in public communication, penetration testing and social engineering research. This paper discusses the identified ethical concerns with regards to two different normative ethics approaches namely utilitarianism and deontology. All of the identified ethical concerns and their corresponding ethical perspectives are provided as well as practical examples of where these formalised ethical concerns for social engineering research can be utilised."
+    ,
+    "13":
+    
+      "Testing the Harmonised Digital Forensic Investigation Process Model using an Android Mobile Phone Mobile forensics is a branch of digital forensics relating to the recovery of digital evidence from mobile devices under forensically sound conditions. Mobile forensics is considered to be at an infant stage with different investigation process models being applied. The biggest challenge in many of the available digital forensic investigation process models lies in their lack of testing before being fully applied to mobile forensics. Furthermore, for any proposed digital forensic investigation process model to be approved by the scientific community, it has to be tested. The Harmonised Digital Forensic Investigation (HDFI) process model is currently in the working draft stage towards becoming an international standard for digital forensic investigations (ISO/IEC 27043), thus the need for its testing. In this paper, the (HDFI) process model is tested using an Android mobile phone. The selection of an Android mobile phone is motivated by the fact that Android mobile phones have the greatest share of the mobile market index. In the last three years, for example, the market share index for mobile phones put Android mobile devices at 75% of the entire smartphone market. Through observing the findings of the test using an Android mobile phone, this paper demonstrates that conducting mobile forensics using the HDFI process model produces satisfactory results."
+    ,
+    "14":
+    
+      "Towards a Framework for Enhancing Potential Digital Evidence Presentation In the case of digital forensic investigations, the potential digital evidence captured, the analysis, interpretation, and attribution must ultimately be presented in the form of expert reports, depositions, and testimony in any legal proceedings. If the presentation and interpretation of the potential digital evidence is conducted correctly, it is much easier and useful in apprehending the attacker and stands a much greater chance of being admissible in the event of a prosecution. Wrongly presented and interpreted potential digital evidence data might create loopholes for perpetrators to exploit, thus, making it hard to convict and prosecute them. Existing digital forensic investigation process models have for identifying and preserving potential digital evidence captured from a crime scene. However, the extent to which such potential digital evidence may be admissible in a court of law remains a challenge to investigators. This is backed up by the fact that there are currently no standardised guidelines for even presenting the most common representations of digital forensic evidence. Therefore, in the authors’ opinion, methodologies and specifications need to be developed in the field of digital forensics with the ability to effectively enhance the potential digital evidence presentation and interpretation in any legal proceedings. In this paper, therefore, we present a step-by-step framework in an attempt to propose high-level guidelines for enhancing the potential digital evidence presentation in any legal proceedings. Such a framework will be helpful to digital forensic experts, for example, in structuring investigation findings as well as in identifying relevant patterns of events to be incorporated during the presentation of potential digital evidence. The framework will also assist law enforcement agencies, for example, to determine, with less effort, the validity, weight and admissibility of any potential digital evidence presented. However, it should be noted that the purpose of this paper is not to replace any of the extensive and known evidence presentation principles, but serves as a survey of the state of the art of the research area while proposing harmonised and high-level guidelines for enhancing the presentation of potential digital evidence in legal proceedings."
+    ,
+    "15":
+    
+      "Visualization Of A Data Leak How Can Visualization Assist To Determine The Scope Of An Attack? The potential impact that data leakage can have on a country, both on a national level as well as on an individual level, can be wide reaching and potentially catastrophic. In January 2013, several South African companies became the target of a hack attack, resulting in the breach of security measures and the leaking of a claimed 700000 records. The affected companies are spread across a number of domains, thus making the leak a very wide impact area. The aim of this paper is to analyze the data released from the South African breach and to visualize the extent of the loss by the companies affected. The value of this work lies in its connection to and interpretation of related South African legislation. The data extracted during the analysis is primarily personally identifiable information, such as defined by the Electronic Communications and Transactions Act of 2002 and the Protection of Personal Information Bill of 2009."
+    ,
+    "16":
+    
+      "A Conceptual Opportunity-based Framework to Mitigate the Insider Threat The aim of this paper is to provide a conceptual framework to mitigate the insider threat from an opportunitybased perspective. Although motive and opportunity are required to commit maleficence, this paper focuses on the concept of opportunity. Opportunity is more tangible than motive, hence it is more pragmatic to reflect on opportunity-reducing measures. Opportunity theories from the field of criminology are considered to this end. The derived framework highlights several areas of research and may assist organisations in designing controls that are situationally appropriate to mitigate insider threat. Current information security countermeasures are not designed from an opportunity-reducing perspective."
+    ,
+    "17":
+    
+      "A Kernel-Driven Framework for High Performance Internet Routing Simulation The ability to provide the simulation of packets traversing an internet path is an integral part of providing realistic simulations for network training, and cyber defence exercises. This paper builds on previous work, and considers an in-kernel approach to solving the routing simulation problem. The inkernel approach is anticipated to allow the framework to be able to achieve throughput rates of 1GB/s or higher using commodity hardware. Processes that run outside the context of the kernel of most operating system require context switching to access hardware and kernel modules. This leads to considerable delays in the processes, such as network simulators, that frequently access hardware such as hard disk accesses and network packet handling. To mitigate this problem, as experienced with earlier implementations, this research looks towards implementing a kernel module to handle network routing and simulation within a UNIX based system. This would remove delays incurred from context switching and allows for direct access to the hardware components of the host. This implementation evaluates the use of Work Queues within the Linux Kernel to schedule packets, and Radix Trees store routing information in the form of Nodes. The memory and CPU requirements are taken into consideration, and conclusions towards the trade off of resources for higher throughput and speeds are discussed. Preliminary tests using this implementation method have achieved throughput rates in routing packets from core to endpoint host at speeds up to 1 gigabit. This however, is subject to host load, network size and number of packets being routed simultaneously at the time of transaction. These factors are discussed and suggestions made towards further optimisations."
+    ,
+    "18":
+    
+      "An Analysis of Service Degradation Attacks against Real-Time MPLS Networks While the robustness of the communication network infastructure against attacks on the integrity of backbone protocols such as the Border Gateway Protocol (BGP) and MultiProtocol Label Switching (MPLS) protocols has been the subject of significant earlier work, more limited attention has been paid to the problem of availability and timeliness that is crucial for service levels needed in areas such as some financial services and particularly for the interconnection of smart grid components requiring hard real-time communication which are not necessarily over completely isolated networks. In such networks, an adversary will be successful if a targeted flow or set of flows no longer meets CoS and QoS boundaries, particularly delay and jitter, even where no outright compromise of either the flow itself or the control flow is achieved. The attacker’s objective can be accomplished by interfering with the operation of the control signalling protocol, but also by influencing the policy of MPLS nodes and the mitigation mechanisms itself. In this paper we therefore describe an adversary model and analysis of attacks based on manipulation of Label Distribution Protocol (LDP) messages for the purpose of affecting the required (QoS) and Class of Service (CoS) for a targeted traffic where the adversary may intentionally modify the policy state of LSRs that the targeted traffic passes through"
+    ,
+    "19":
+    
+      "Bimodal Biometrics for Financial Infrastructure Security This research examines whether the integration of facial and fingerprint biometrics can improve the performance in financial infrastructure security such as ATM protection. Fingerprint biometrics consider distorted and misaligned fingerprints caused by environmental noise such as oil, wrinkles, dry skin, dirt and displacement of the query fingerprint with the database fingerprint template during matching. The noisy, distorted and/or misaligned fingerprint produced as a 2-D on x-y image, is enhanced and optimized using a new hybrid Modified Gabor Filter-Hierarchal Structure Check (MGF-HSC) system model based on an MGF integrated with an HSC. However, in order to improve the accuracy of financial infrastructure, face biometrics are introduced using a fast principal component analysis algorithm, in which different face conditions such as lighting, blurriness, pose, head orientation and other conditions are addressed. The MGF-HSC approach minimizes false fingerprint matching and the dominant effect of distortion and misalignment of fingerprints to an acceptable level. The proposed bimodal biometrics increase the accuracy of the False Rejection Rate (FRR) to 98% when the False Acceptance Rate (FAR) is 0.1% in an experiment conducted with 1000 test cases. This result shows that facial biometrics can be used to support fingerprint biometrics for improving financial security based on with significant improvement in both FRR and FAR."
+    ,
+    "20":
+    
+      "Classification of Security Operation Centers Security Operation Centers (SOCs) are a necessary service for organisations that want to address compliance and threat management. While there are frameworks in existence that addresses the technology aspects of these services, a holistic framework addressing processes, staffing and technology currently do not exist. Additionally, it would be useful for organizations and constituents considering building, buying or selling these services to measure the effectiveness and maturity of the provided services. In this paper, we propose a classification and rating scheme for SOC services, evaluating both the capabilities and the maturity of the services offered."
+    ,
+    "21":
+    
+      "Data Vulnerability Detection by Security Testing for Android Applications The Android intent messaging is a mechanism that ties components together to build Mobile applications. Intents are kinds of messages composed of actions and data, sent by a component to another component to perform several operations, e.g., launching a user interface. The intent mechanism eases the writing of Mobile applications, but it might also be used as an entry point for security attacks. The latter can be easily sent with intents to components, that can indirectly forward attacks to other components and so on. In this context, this paper proposes a Model-based security testing approach to attempt to detect data vulnerabilities in Android applications. In other words, this approach generates test cases to check whether components are vulnerable to attacks, sent through intents, that expose personal data. Our method takes Android applications and intent-based vulnerabilities formally expressed with models called vulnerability patterns. Then, and this is the originality of our approach, partial specifications are automatically generated from configuration files and component codes. Test cases are then automatically generated from vulnerability patterns and the previous specifications. A tool, called APSET, is presented and evaluated with experimentations on some Android applications."
+    ,
+    "22":
+    
+      "Democratic Detection of Malicious Behaviour in MANET: A Voting Process Wireless MANET presents new security problems in comparison to the conventional wired and wireless networks, as it is more vulnerable to malicious attacks due to its unique features. The MANET routing protocols require that the mobile nodes that form such temporal network cooperate with each other to achieve the desired routing purpose for the exchange of information amongst the participating nodes. However, the cooperation cannot be realised where network nodes exhibit malicious operations. The MANET characteristics and applications make it difficult to have a centralised security management entity. Furthermore, the implementation of PowerAware routing protocols complicates the possibility of relying entirely on watchdog mechanisms to safeguard the network against Black-Hole attack. In addition, the watchdog’s eavesdropping operation violates the TCP protocol rules, and requires buffering of large amount of packets during the monitoring process, which results to extra overheads. This paper proposes an algorithm which utilises Cluster-Heads and votes from neighbourhood nodes to detect and eliminate malicious nodes. It addresses challenges posed by Power-Aware routing protocols and watchdog approaches in detecting Black-Hole attack, thereby increasing nodes’ availability and the overall network performance."
+    ,
+    "23":
+    
+      "Forensic Entropy Analysis of Microsoft Windows Storage Volumes The use of file or volume encryption as a counterforensic technique, particularly when combined with steganographic mechanisms, depends on the ability to plausibly deny the presence of such encrypted data. Establishing the likely presence of encrypted data is hence highly desirable for forensic investigations, particularly if an automated heuristic can be devised. Similarly, forensic analysts must be able to identify whether a volume has been sanitised by re-installation and subsequent re-population with user data as otherwise significant information such as slack space contents and files of interest will be unavailable. We claim that the current or previous existence of encrypted volumes can be derived from studying file and volume entropy characteristics based on knowledge of the development of volume entropy over time. To validate our hypothesis, we have examined several versions of the Microsoft Windows operating system platform over a simulated installation life-cycle and established file and volume entropy metrics. Similarly, using the same mechanisms, we verified the hypothesis that the aging through regular use of an installation is identifiable through entropy fingerprint analysis. The results obtained allow the rapid identification of several volume-level operations including copying and wiping, but also to detect anomalous slack space entropy indicative of the use of encryption techniques. Similarly, entropy and randomness tests have been devised which provide heuristics for the differentiation of encrypted data from other high-entropy data such as compressed media data."
+   
+    ,
+    "24":
+    
+      "Security Steps for Smartphone Users Smartphones are an important asset for people living in the 21st century. With functionality similar to computers, smartphones have become all-in-one portable devices providing interconnectivity and device-to-device communication. Such continuous improvement in capabilities will cause the popularity of smartphones to constantly rise. Besides the popularity of smartphones there has also been a sharp increase in mobile malware. Most of the mobile malware recently discovered target Google’s Android operating system. The ease of modifying and the simplicity of the design of the operating system are the aspects that are drawing malware developers towards Android smartphones. This study focus on the current state of mobile malware, the adequacy of mobile security applications and possible security steps smartphone users can take to prevent mobile malware attacks. To evaluate the adequacy of current mobile security applications a malicious Android application is developed and deployed on an Android smartphone. In addition, this new Android application is also evaluated against mobile security applications. From the results additional security steps are identified that users of smartphones can follow to prevent or detect possible mobile malware infections. The ultimate goal of this research is to eventually automate the identified steps in the form of an application rather than depending on the user to execute the steps." ,
+    "25":
+    
+      "SNIPPET: Genuine Knowledge-Based Authentication Authentication is traditionally performed based on what you know, what you hold or what you are. The first is the most popular, in the form of the password. This is often referred to as “knowledge-based” authentication. Yet, given the guidelines for password restrictions commonly given to end-users we will argue that this is a misnomer. A strong password is actually a lengthy string of gibberish or nonsense. Common password strength guidelines advise users against choosing meaningful passwords. Humans are not very good at remembering nonsense strings so they very reasonably choose meaningful passwords which are easily guessed. This appears to constitute a stand off between the mnemonic needs of end users and the security needs of the system. If we could find a way of reducing the mnemonic load on users they might well be more likely to choose stronger authentication secrets. We could, for example, rely on pre-existing knowledge rather than requiring users to memorise a random alphanumeric string. If we were able to do this it should be easier for them to respond, and also harder for a random intruder to replicate the knowledge. Testing knowledge directly is probably infeasible in an authentication setting. We will show that experts can identify what they themselves produce as they go about carrying out their own skilled activities. We trialled a prototype mechanism which tested the memorability, observability and guessability of an authentication mechanism that relied on an expert programmer identifying his/her own code snippets. We conducted a pilot study and report on our findings. These findings are not conclusive given the small number of participants but they do show promise and suggest that this is an area worth pursuing" ,
+    "26":
+    
+      "The Characteristics of a Biometric Biometric implementations have emerged as an improved solution in many spheres of life where security controls are necessary for authentication. However, not all human mannerisms and features can be used as a biometric measure. For example, the movement of an elbow will not satisfy the requirements for a useful biometric. There are a number of characteristics which are deemed important and that may be taken into account when choosing a human mannerism or feature to be used as a biometric for the purposes of identification. Some characteristics are more necessary than others. For example, the uniqueness of the fingerprint is more important than its acceptance as an identification mechanism by the public at large. One can find a number of these suggested characteristics in the literature and place them into various categories. The primary category will be its inherent nature but there may also be a technical and a procedural category. Technical considerations are where the typical technical implementation of the biometric may add further characteristics to the biometric. Finally, there may be procedural actions that will further have an influence on the biometric implementation. A categorized technical or procedural characteristic should add quality to the original inherent characteristics for any particular biometric. If a biometric feature and its further implementation (technical and/or procedural) satisfy a certain subset of these categorized characteristics which are deemed more important, then this may constitute a better choice than that which appears to satisfy a different subset of characteristics. This paper looks at the characteristics found in the literature and attempts to categorize them as inherent, technical or procedural in nature. The paper will subsequently look at some of the more popular biometric features and their inherent characteristics that have been found in the literature. Readers of this paper will be able to select appropriate biometric features based on the characteristics that are identified in this paper." ,
+    "27":
+    
+      "The Identification of Information Sources to aid with Critical Information Infrastructure Protection Providing Critical Information Infrastructure Protection (CIIP) has become an important focus area for countries across the world with the widespread adoption of computer systems and computer networks that handle and transfer large amounts of sensitive information on a daily basis. Most large organisations have their own security teams that provide some form of protection against cyber attacks that are launched by cybercriminals. It is however often the case that smaller stakeholders such as schools, pharmacies and other SMEs might not have the required means to protect themselves against these cyber attacks. The distribution of relevant and focused information is an important part of providing effective protection against cyber attacks. In this paper some of the existing mechanisms and formats in which information related to software security vulnerabilities are provided to the public are discussed and reviewed. Providing focused and relevant information can enable smaller stakeholders such as SMEs that have a limited set of skills and expertise to limit their risk of exposure to cyber attacks." ,
+    "28":
+    
+      "Towards Reputation-as-a-Service Reputation is used to regulate relationships of trust in online communities. When deploying a reputation system, it needs to accommodate the requirements and constrains of the specific community in order to assist the community to reach their goals. This paper identifies that there is a need for a framework to define a configurable reputation system with the ability to accommodate the requirements of a variety of online communities. Such a reputation system can be defined as a service on the Cloud, to be composed with the application environment of the online community. This paper introduces the concept of RaaS (Reputation-as-a-Service) and discusses a potential framework for creating a RaaS. In order to achieve such a framework, research is conducted into features of SaaS (Software-as-a-Service) components, user requirements for trust and reputation, and features of current reputation frameworks that can be configured in order to support a reputation service on the Cloud."
+      ,
+    "29":
+    
+      "Toward Risk-driven Security Measurement for Android Smartphone Platforms Security for Android smartphone platforms is a challenge arising in part from their openness. We analyse the security objectives of two distinct envisioned public safety and security mobile network systems utilising the Android platform. The analysis is based on an industrial risk analysis activity. In addition, we propose initial heuristics for security objective decomposition aimed at security metrics definition. Systematically defined and applied security metrics can be used for informed risk-driven security decision-making, enabling higher security effectiveness."
+    }
+
+}
