@@ -1,0 +1,228 @@
+{
+  "title":{"0":
+      
+      "A web-based information security management toolbox for small-to-medium enterprises in Southern Africa"
+    ,
+      "1":
+      "An adaptation of the awareness boundary model towards smartphone security"
+    ,
+    "2":
+      
+      "An Architecture for Secure Searchable Cloud Storage"
+    ,
+    "3":
+      
+      "An assessment of the role of cultural factors in information security awareness"
+    ,
+    "4":
+      
+      "cPLC – A Cryptographic Programming Language and Compiler"
+    ,
+    "5":
+      
+      "Design of cyber security awareness game utilizing a social media framework"
+    ,
+    "6":
+      
+      "Detecting Scareware by Mining Variable Length Instruction Sequences"
+    ,
+    "7":
+      
+      "Information security governance control through comprehensive policy architectures"
+    ,
+    "8":
+      
+      "Informed Software Installation through License Agreement Categorization"
+    ,
+    "9":
+      
+      "Secure Cloud Computing Benefits, Risks and Controls"
+    ,
+    "10":
+      
+      "Secure e-Government Services: Towards A Framework for Integrating IT Security Services into e-Government Maturity Models"
+    ,
+    "11":
+      
+      "Traffic Flow Management in Next Generation Service Provider Networks - Are We There Yet?"
+    ,
+    "12":
+      
+      "A Framework for DNS Based Detection and Mitigation of Malware Infections on a Network"
+    ,
+    "13":
+      
+      "A Property Based Security Risk Analysis Through Weighted Simulation"
+    ,
+    "14":
+      
+      "A Visualization and Modeling Tool for Security Metrics and Measurements Management"
+    ,
+    "15":
+      
+      "Adding digital forensic readiness to electronic communication using a security monitoring tool"
+    ,
+    "16":
+      
+      "An Evaluation of Lightweight Classification Methods for Identifying Malicious URLs"
+    ,
+    "17":
+    
+      "Analysing the fairness of trust-based Mobile Ad Hoc Network protocols"
+    ,
+    "18":
+      
+      "Efficient Enforcement of Dynamic Cryptographic Access Control Policies for Outsourced Data "
+    ,
+    "19":
+      
+      "Enhancing Digital Business Ecosystem Trust and Reputation with Centrality Measures"
+    ,
+    "20":
+      
+      "Exploring the human dimension of TETRA"
+    ,
+    "21":
+      
+      "Guidelines for the creation of brain-compatible cyber security educational material in Moodle 2.0"
+    ,
+    "22":
+      
+      "Implementing Rootkits to Address Operating System Vulnerabilities"
+    ,
+    "23":
+      
+      "Information Security Competence Test with Regards to Password Management"
+     ,
+    "24":
+      
+      "Mobile cyber-bullying: A proposal for a pre-emptive approach to risk mitigation by employing digital forensic readiness"
+     ,
+    "25":
+      
+      "Network Forensics in a Clean-Slate Internet Architecture"
+     ,
+    "26":
+      
+      "Online Social Networks: Enhancing user trust through effective controls and identity management"
+      ,
+    "27":
+      
+      "Towards a Digital Forensic Readiness Framework for Public Key Infrastructure Systems"
+     
+  },
+
+
+    "abstracts":{"0":
+    
+      "A web-based information security management toolbox for small-to-medium enterprises in Southern Africa Many small-to-medium sized enterprises are finding it extremely difficult to implement proper information security governance due to cost implications. Due to this lack of resources, small enterprises are experiencing challenges in drafting information security policies as well as monitoring their implementation and compliance levels. This problem can be alleviated by means of a cost effective ”dashboard system” and automated policy generation tool. This paper will critically evaluate an existing policy generation tool, known as the Information Security Management Toolbox, and will propose improvements to this existing system based on changes in both information security standards and business needs, since the development of the original system."
+    ,
+    "1":
+    
+      "An adaptation of the awareness boundary model towards smartphone security Employees are becoming increasingly aware of the wealth of functionality available using smartphone computing; they fall hopelessly short in the awareness of the associated organisational information security risks associated with smartphone computing. Existing security measures are not adequately adapted for the risks introduced through smartphone usage. Therefore, there exists a need to apply principles of dynamic risk awareness to reduce organisational smartphone security risks. This paper examines the Awareness Boundary Model and its feasibility in reducing organisational risks introduced through increasing employee awareness of the information security risks of smartphone computing."
+    ,
+    "2":
+    
+      "An Architecture for Secure Searchable Cloud Storage Cloud Computing is a relatively new and appealing concept; however, users may not fully trust Cloud Providers with their data and can be reluctant to store their files on Cloud Storage Services. This paper describes a solution that allows users to securely store data on a public cloud, while also allowing for searchability through the user’s encrypted data. Users are able to submit encrypted keyword queries and, through a symmetric searchable encryption scheme, the system finds all files with such keywords contained within. The system is designed in such a manner that trust from a public cloud provider is not required. The solution satisfies confidentiality of data; data integrity is maintained, file sharing is catered for and a user key-revocation scheme is in place. A further advantage of this approach is that if there is a security breach at the cloud provider, the user’s data will continue to be secure since all data is encrypted. Users also do not need to worry about Cloud Providers gaining access to their data illegally. The architecture of the system consists of two components, the Client side application and the Server application running on the compute cloud. The client side application performs all the security operations on the data. Along with saving and retrieving data from the Storage Service, the Server application performs the processing involved in handling the encrypted queries. The performance overheads of such a system are potentially significant in terms of additional processing time and the size of the additional meta-data needed. Preliminary results show that the storage overheads remain fairly constant as input file sizes increase - as file sizes were increased from 3Kb to 147Mb, the security overhead remained between 1038b and 1053b. This overhead is basically insignificant when storing large files. Overall the benefits of a searchable encrypted cloud service are significant and the approach is viable for using public clouds while still retaining control of the data."
+    ,
+    "3":
+    
+      "An assessment of the role of cultural factors in information security awareness An information security awareness program is regarded as an important instrument in the protection of information assets. In this study, the traditional approach to an information security awareness program is extended to include possible cultural factors relating to people from diverse backgrounds. The human factor, consisting of two closely related dimensions, namely knowledge and behaviour, play a significant role in the field of ICT security. In addition, cultural factors also impact on the security knowledge and behaviour of people as cultural differences may manifest themselves in different levels of security awareness. An information security vocabulary test was used to assess the level of awareness pertaining to the two human dimensions – knowledge and behaviour amongst students from two different regional universities in South Africa. The objective is to determine whether cultural differences among students have an effect on their ICT security awareness levels. Results obtained suggest that certain cultural factors such as mother tongue, area where you grew up, etc., do have an impact on security awareness levels and should be taken into consideration when planning and developing an information security awareness program."
+    ,
+    "4":
+    
+      "cPLC – A Cryptographic Programming Language and Compiler Cryptographic two-party protocols are used ubiquitously in everyday life. While some of these protocols are easy to understand and implement (e.g., key exchange or transmission of encrypted data), many of them are much more complex (e.g., ebanking and e-voting applications, or anonymous authentication and credential systems). For a software engineer without appropriate cryptographic skills the implementation of such protocols is often difficult, time consuming and error-prone. For this reason, a number of compilers supporting programmers have been published in recent years. However, they are either designed for very specific cryptographic primitives (e.g., zero-knowledge proofs of knowledge), or they only offer a very low level of abstraction and thus again demand substantial mathematical and cryptographic skills from the programmer. Finally, some of the existing compilers do not produce executable code, but only metacode which has to be instantiated with mathematical libraries, encryption routines, etc. before it can actually be used. In this paper we present a cryptographically aware compiler which is equally useful to cryptographers who want to benchmark protocols designed on paper, and to programmers who want to implement complex security sensitive protocols without having to understand all subtleties. Our tool offers a high level of abstraction and outputs well-structured and documented Java code. We believe that our compiler can contribute to shortening the development cycles of cryptographic applications and to reducing their error-proneness"
+    ,
+    "5":
+    
+      "Design of cyber security awareness game utilizing a social media framework Social networking sites are a popular medium of interaction and communication. Social networking sites provide the ability to run applications and games to test users’ knowledge. The popularity of social networks makes it an ideal tool through which awareness can be created on existing and emerging security threats. This paper proposes an interactive game hosted by social networking sites with the purpose of creating awareness on information security threats and vulnerabilities. The game applies principles of good game design which includes: the decisions over hypermedia, multimedia and hypertext to achieve perception, comprehension or projection, comprehensive database of questions, weighted system, use of practical data, automation, dynamcis, effort and user acceptance. The aim of the paper is show the effectiveness of using a virtual tool in cyber awareness creation. This paper will thus deal with the proposal of an interactive web-based game which informs and then tests users about potential security threats and vulnerabilities."
+    ,
+    "6":
+    
+      "Detecting Scareware by Mining Variable Length Instruction Sequences Scareware is a recent type of malicious software that may pose financial and privacy-related threats to novice users. Traditional countermeasures, such as anti-virus software, require regular updates and often lack the capability of detecting novel (unseen) instances. This paper presents a scareware detection method that is based on the application of machine learning algorithms to learn patterns in extracted variable length opcode sequences derived from instruction sequences of binary files. The patterns are then used to classify software as legitimate or scareware but they may also reveal interpretable behavior that is unique to either type of software. We have obtained a large number of real world scareware applications and designed a data set with 550 scareware instances and 250 benign instances. The experimental results show that several common data mining algorithms are able to generate accurate models from the data set. The Random Forest algorithm is shown to outperform the other algorithms in the experiment. Essentially, our study shows that, even though the differences between scareware and legitimate software are subtler than between, say, viruses and legitimate software, the same type of machine learning approach can be used in both of these dissimilar cases."
+    ,
+    "7":
+    
+      "Information security governance control through comprehensive policy architectures Information Security Governance has become one of the key focus areas of strategic management due to its importance in the overall protection of the organization’s information assets. A properly implemented Information Security Governance framework should ideally facilitate the implementation of (directing), and compliance to (control), Strategic level management directives. These Strategic level management directives are normally interpreted, disseminated and implemented by means of a series of information security related policies. These policies should ideally be disseminated and implemented from the Strategic management level, through the Tactical level to the Operational level where eventual execution takes place. Control is normally exercised by capturing data at the lowest levels of execution and measuring compliance against the Operational level policies. Through statistical and summarized analyses of the Operational level data into higher levels of extraction, compliance at the Tactical and Strategic levels can be facilitated. This scenario of directing and controlling defines the basis of sound Information Security Governance. Unfortunately, information security policies are normally not disseminated onto the Operational level. As a result, proper controlling is difficult and therefore compliance measurement against all information security policies might be problematic. The objective of this paper is to argue towards a more complete information security policy architecture that will facilitate complete control, and therefore compliance, to ensure sound Information Security Governance."
+    ,
+    "8":
+    
+      "Informed Software Installation through License Agreement Categorization Spyware detection can be achieved by using machine learning techniques that identify patterns in the End User License Agreements (EULAs) presented by application installers. However, solutions have required manual input from the user with varying degrees of accuracy. We have implemented an automatic prototype for extraction and classification and used it to generate a large data set of EULAs. This data set is used to compare four different machine learning algorithms when classifying EULAs. Furthermore, the effect of feature selection is investigated and for the top two algorithms, we investigate optimizing the performance using parameter tuning. Our conclusion is that feature selection and performance tuning are of limited use in this context, providing limited performance gains. However, both the Bagging and the Random Forest algorithms show promising results, with Bagging reaching an AUC measure of 0.997 and a False Negative Rate of 0.062. This shows the applicability of License Agreement Categorization for realizing informed software installation."
+    ,
+    "9":
+    
+      "Secure Cloud Computing Benefits, Risks and Controls Cloud computing presents a new model for IT service delivery and it typically involves over-a-network, on-demand, self-service access, which is dynamically scalable and elastic, utilising pools of often virtualized resources. Through these features, cloud computing has the potential to improve the way businesses and IT operate by offering fast start-up, flexibility, scalability and cost efficiency. Even though cloud computing provides compelling benefits and cost-effective options for IT hosting and expansion, new risks and opportunities for security exploits are introduced. Standards, policies and controls are therefore of the essence to assist management in protecting and safeguarding systems and data. Management should understand and analyse cloud computing risks in order to protect systems and data from security exploits. The focus of this paper is on mitigation for cloud computing security risks as a fundamental step towards ensuring secure cloud computing environments."
+    ,
+    "10":
+    
+      "Secure e-Government Services: Towards A Framework for Integrating IT Security Services into e-Government Maturity Models e-Government maturity models (eGMMs) lack security services (technical and socio/non-technical) in its critical maturity stages. The paper proposes a comprehensive framework for integrating IT security services into eGMM critical stages. The proposed framework is a result of integrating information security maturity model (ISMM) critical levels into e-government maturity model (eGMM) critical stages. The research utilizes Soft Systems Methodology (SSM) of scientific inquiry adopted from Checkland and Scholes. The paper contributes to the theoretical and empirical knowledge in the following ways: firstly, it introduces a new approach that shows how government’s can progressively secure their e-government services; secondly, it outlines the security requirements (technical and non-technical) for critical maturity stages of eGMM; and thirdly, it enhances awareness and understanding to the governments and stakeholders such as practitioners, experts and citizens on the importance of security requirements being clearly defined within eGMM critical stages."
+    ,
+    "11":
+    
+      "Traffic Flow Management in Next Generation Service Provider Networks - Are We There Yet For years a number of savvy Internet users have avoided firewalls and traffic engineering measures by directing traffic through ports seemingly unrelated to the application. These ports are those often marked by firewall administrators as “safe” or those given a higher priority on quality of service systems. This problem has been effectively managed by implementing deep packet inspection techniques, giving the administrators a view into the underlying layer 7 protocol of each flow. The reliance on transit payload to be in plain text format in order to reliably match the underlying content has put this method of classification at a major disadvantage. The use of encryption by users to render the contents of a data packet opaque is, therefore, of major concern to network administrators who rely heavily on deep packet inspection. Without the ability to interrogate the underlying payload of traffic flows, a new method to identify this type of traffic needs to be discovered in order to retain control of the network. As an increasing number of users turn to IP tunneling to secure their data transfers, network service providers need to ensure their systems are ready to handle this type of traffic. A failure to do so would result in them facing the reality of a badly managed network. This paper highlights the challenges faced by network service providers in opaque traffic classification for both existing and future, next generation networks. It investigates and evaluates the various solutions implemented in order to manage network traffic “in the dark”."
+    ,
+    "12":
+    
+      "A Framework for DNS Based Detection and Mitigation of Malware Infections on a Network Modern botnet trends have lead to the use of IP and domain fast-fluxing to avoid detection and increase resilience. These techniques bypass traditional detection systems such as blacklists and intrusion detection systems. The Domain Name Service (DNS) is one of the most prevalent protocols on modern networks and is essential for the correct operation of many network activities, including botnet activity. For this reason DNS forms the ideal candidate for monitoring, detecting and mitigating botnet activity. In this paper a system placed at the network edge is developed with the capability to detect fast-flux domains using DNS queries. Multiple domain features were examined to determine which would be most effective in the classification of domains. This is achieved using a C5.0 decision tree classifier and Bayesian statistics, with positive samples being labeled as potentially malicious and negative samples as legitimate domains. The system detects malicious domain names with a high degree of accuracy, minimising the need for blacklists. Statistical methods, namely Naive Bayesian, Bayesian, Total Variation distance and Probability distribution are applied to detect malicious domain names. The detection techniques are tested against sample traffic and it is shown that malicious traffic can be detected with low false positive rates"
+    ,
+    "13":
+    
+      "A Property Based Security Risk Analysis Through Weighted Simulation The estimation of security risks in complex information and communication technology systems is an essential part of risk management processes. A proper computation of risks requires a good knowledge about the probability distributions of different upcoming events or behaviours. Usually, technical risk assessment in Information Technology (IT) systems is concerned with threats to specific assets. However, for many scenarios it can be useful to consider the risk of the violation of particular security properties. The set of suitable qualities comprises authenticity of messages or non-repudiability of actions within the system but also more general security properties like confidentiality of data. Furthermore, as current automatic security analysis tools are mostly confined to a technical point of view and thereby missing implications on an application or process level, it is of value to facilitate a broader view including the relation between actions within the IT system and their external influence. The property based approach aims to help assessing risks in a process-oriented or service level view of a system and also to derive a more detailed estimation on a technical level. Moreover, as systems’ complexities are growing, it becomes less feasible to calculate the probability of all patterns of a system’s behaviour. Thus, a model based simulation of the system is advantageous in combination with a focus on precisely defined security properties. This paper introduces the first results supporting a simulation based risk analysis tool that enables a security property oriented view of risk. The developed tool is based on an existing formal validation, verification and simulation tool, the Simple Homomorphism Verification Tool (SHVT). The new simulation software provides a graphical interface for a monitor automaton which facilitates the explicit definition of security properties to be investigated during the simulation cycles. Furthermore, in order to model different likelihoods of actions in a system, weighting factors can be used to sway the behaviour where the occurrence of events is not evenly distributed. These factors provide a scheme for weighting classes of transitions. Therefore, the tool facilitates probabilistic simulation, providing information about the probability distribution of satisfaction or violation of specified properties"
+    ,
+    "14":
+    
+      "A Visualization and Modeling Tool for Security Metrics and Measurements Management Sufficient and credible information security measurement in software-intensive systems requires use of a variety of security metrics offering security-related evidence from different viewpoints. Visualization is needed to facilitate management of security metrics and measurements and to increase the meaningfulness of them in decision-making such as security assurance and risk management. We introduce a novel visualization and modeling tool for hierarchical specification and deployment of security metrics and measurements. The tool connects high-level risk-driven security objectives with detailed measurements and evidence gathering. The tool facilitates the management of a large number of metrics and measurements without losing appropriate granularity that is crucial for informed security decision-making."
+    ,
+    "15":
+    
+      "Adding digital forensic readiness to electronic communication using a security monitoring tool Electronic communication is used in our daily lives. One can receive email on a PC, Laptop or mobile phone. SMTP was designed to be an easy and cost-effective implementation. This fact, however, makes SMTP a target to be abused. Unsolicited electronic communication, also known as spam, is just one such example of abuse of email. Tracing the origin of spam by using the information contained in SMTP headers is not possible because SMTP is a clear text protocol and can easily be intercepted and modified. Digital forensic specialists are plagued with sifting through large data sets to find incident information. During the process of introducing digital forensic readiness the amount of information that is gathered is inadvertently increased, to ensure that the information is valid and usable. Drawing from the experience of digital forensic experts to find specific data subsets that prove or disprove that an incident occurred can be used to automate the analysis process. Data analysis tools are created for the purpose of sifting through data, looking for known data patterns, and storing these patterns as a subset of the original data. Monitoring tools have been used successfully to gather information pertaining to the performance of IT systems. Security monitoring tools have been designed to collect security information in order to detect security breaches within the IT system. An extension to the security monitoring tool is proposed to gather security and usage information with regard to electronic communication. The collected information is saved in a database for future analysis"
+    ,
+    "16":
+    
+      "An Evaluation of Lightweight Classification Methods for Identifying Malicious URLs Recent research has shown that it is possible to identify malicious URLs through lexical analysis of their URL structures alone. This paper intends to explore the effectiveness of these lightweight classification algorithms when working with large real world datasets including lists of malicious URLs obtained from Phishtank as well as largely filtered benign URLs obtained from proxy traffic logs. Lightweight algorithms are defined as methods by which URLs are analysed that do not use external sources of information such as WHOIS lookups, blacklist lookups and content analysis. These parameters include URL length, number of delimiters as well as the number of traversals through the directory structure and are used throughout much of the research in the paradigm of lightweight classification. Methods which include external sources of information are often called fully featured classifications and have been shown to be only slightly more effective than a purely lexical analysis  when considering both false-positives and false-negatives. This distinction allows these algorithms to be run client side without the introduction of additional latency, but still providing a high level of accuracy through the use of modern techniques in training classifiers. Analysis of this type will also be useful in an incident response analysis where large numbers of URLs need to be filtered for potentially malicious URLs as an initial step in information gathering as well as end user implementations such as browser extensions which could help protect the user from following potentially malicious links. Both AROW and CW classifier update methods will be used as prototype implementations and their effectiveness will be compared to fully featured analysis results. These methods are interesting because they are able to train on any labelled data, including instances in which their prediction is correct, allowing them to build a confidence in specific lexical features. This makes it possible for them to be trained using noisy input data, making them ideal for real world applications such as link filtering and information gathering"
+    ,
+    "17":
+    
+      "Analysing the fairness of trust-based Mobile Ad Hoc Network protocols Comparing the fairness of AODV and TAODV protocols in scenario driven simulations A Mobile Ad hoc Network (MANET) consists out of a collection of mobile nodes capable of sending and/or receiving wireless communications. MANETs are generally unstructured networks with no centralized administration. MANETs use routing algorithms to establish routes among nodes. This unstructured nature presents the opportunity for misbehaviour among nodes. Trust based MANET routing protocols have been developed to counteract malicious behaviour, in an effort to establish fair node behaviour. Recent research has shown that the trust protocols themselves introduce unfair behaviour among nodes. This paper presents basic MANET scenarios and monitors the fairness of TAODV and TEA-AODV routing protocols"
+    ,
+    "18":
+    
+      "Outsourcing of their data to third-party service providers is a cost-effective data management strategy for many organizations. Outsourcing, however, introduces new challenges with respect to ensuring the security and the privacy of the data. In addition to the need for standard access control policies, organizations must now be concerned with the privacy of their data and so hiding the data from the service provider is important. Simply encrypting the data before it is transmitted to the service provider is inefficient and vulnerable to security attacks when the access control policies change. Approaches based on two layers of encryption alleviate the privacy concern but still require re-encryption of the data when policies change. This paper presents a novel and efficient solution that employs two layers of encryption of the data and an encrypted data object containing the second access key. Changes to the access control policies are handled by re-encrypting the object containing the affected key, which is an efficient operation. The paper presents our key management approach, a security analysis of our approach, and an evaluation of the performance of a proof of concept implementation of our approach"
+    ,
+    "19":
+    
+      "Enhancing Digital Business Ecosystem Trust and Reputation with Centrality Measures Digital Business Ecosystem (DBE) is a decentralised environment where very small enterprises (VSEs) and small to medium sized enterprises (SMEs) interoperate by establishing collaborations with each other. Collaborations play a major role in the development of DBEs where it is often difficult to select partners, as they are most likely strangers. Even though trust forms the basis for collaboration decisions, trust and reputation information may not be available for each participant. Recommendations from other participants are therefore necessary to help with the selection process. Given the nature of DBEs, social network centrality measures that can influence power and control in the network need to be considered for DBE trust and reputation. A number of social network centralities, which influence reputation in social graphs have been studied in the past. This paper investigates an unexploited centrality measure, betweenness centrality, as a metric to be considered for trust and reputation"
+    ,
+    "20":
+    
+      "Exploring the human dimension of TETRA In order to secure communication, in the year 55 BC, Julius Caesar developed the Caesar cipher to ensure his generals on the battle field received critical information in the most secure manner possible. Today, the protection of critical information and communication is just as vital. Police officers, fire marshals and emergency medical units require critical information to make decisions that could mean the difference between life and death. Just as in the Caesar era, the information is intended for a particular recipient and can lead to devastating consequences if intercepted or received in a malformed state. Security of these communications should be of utmost importance. One of the threats to security is Social Engineering, which is commonly deployed in computer networks. However, Social Engineering need not be limited to computer networks. Terrestrial Trunked Radio (TETRA) is a standard intended for secure professional digital mobile radio communication, designed for use by government agencies, emergency services, transportation services and various other users in need of secure communication. TETRA is seen as a very technically secure standard, making use of authentication keys and air interface encryption amongst other techniques. Even though TETRA is technically secure, are the TETRA users safe from Social Engineering? This paper will investigate the potential of Social Engineering on a TETRA system. Further, the various vulnerabilities and possible escalation scenarios that could occur if TETRA users are not made aware of Social Engineering will be explored"
+    ,
+    "21":
+    
+      "Guidelines for the creation of brain-compatible cyber security educational material in Moodle 2.0 Most current approaches towards information security education do not have a sound theoretical basis. This could lead to the failure of these educational programs. Furthermore, the need for information security knowledge is no longer only of concern to organizations, but has also become a concern for individuals using online services for personal entertainment, social networking, banking, and other activities. Thus, there is a need for “cyber security” education for both individuals and organizations. Such cyber security educational programs should be based on sound pedagogical theories. One such a pedagogically sound approach that could potentially play a role in cyber security educational programs is “brain compatible learning”. This paper will perform a critical evaluation of an existing information security education course, and evaluate the subject matter in terms of brain compatible learning approaches. The aim of the paper is to propose a set of brain compatible learning guidelines for the creation of cyber security educational material. The paper will also argue in favour of the use e-learning as a delivery mechanism for such content. As such, the guidelines will be proposed in the context of a Moodle 2.0 e-learning environment."
+    ,
+    "22":
+    
+      "Implementing Rootkits to Address Operating System Vulnerabilities Statistics show that although malware detection techniques are detecting and preventing malware, they do not guarantee a 100% detection and / or prevention of malware. This is especially the case when it comes to rootkits that can manipulate the operating system such that it can distribute other malware, hide existing malware, steal information, hide itself, disable anti-malware software etc all without the knowledge of the user. This paper will demonstrate the steps required in order to create two rootkits. We will demonstrate that by implementing rootkits or any other type of malware a researcher will be able to better understand the techniques and vulnerabilities used by an attacker. Such information could then be useful when implementing anti-malware techniques"
+    ,
+    "23":
+    
+      "Information Security Competence Test with Regards to Password Management It is widely acknowledged that when it comes to IT security the human factor is usually the weakest link. In an effort to strengthen this link, most CIO’s are embracing the deployment of security awareness programmes. It is accepted that these programmes can create an information security-aware culture where security risks can be reduced. Even though work has been done in ensuring that these programmes include mechanisms for changing behaviour and reinforcing good security practices, there is a lack of work on measuring the effectiveness of such programmes. Competence based questions have long been used in HR to select employees with the skills that are necessary to perform effectively in a job. Competence based tests focus mainly on the behaviours and traits critical for success on the job and how they have been demonstrated in the past. This current paper presents the description of an approach that uses competency based behavioural questions to measure security competence levels at a university with regards to password management. A sample of 140 students participated in the study. The findings revealed that even though students were aware of the procedures, many failed to implement them. For example, 48.6% of students would share their passwords even though they know it was wrong. It was also found that there is a positive relationship between the year of study and the creation of strong passwords (n=140; r=+0.268; p=0.007)."
+   
+    ,
+    "24":
+    
+      "Mobile cyber-bullying: A proposal for a pre-emptive approach to risk mitigation by employing digital forensic readiness The new age of mobile communication brought on by the internet has meant that people now have mobile access to a wealth of information and services. Although the benefits of mobile information access are acknowledged through the empowering influence over its audience, a concern is noted with reference to largely uncensored forums offering mobile communication exchange to children. The proliferation of mobile technologies available, in conjunction with applications facilitating social networking, has steadily increased the attack surface minors are exposed to in an online environment. Most minors engaging in online activities do so through mobile technologies such as the cell phone. This device, as a consequence of its mobility, offers access to the internet that circumvents controls of supervision. This paper presents an approach that offers an alternative to existing solutions, available to the commercial market, that are driven by static configurations. The proposed solution seeks to avail a state of digital forensic readiness in order to deliver a proactive solution, this is accomplished through risk profiling of a user through usage which dictates the level of protection accordingly. It is suggested that this proposal will benefit children engaging in online interactions through the implementation of proactive strategies" ,
+    "25":
+    
+      "Network Forensics in a Clean-Slate Internet Architecture This paper reflects on the network forensic implication of a specific clean-slate future internetwork architecture. The paper first provides an overview of the architecture and how it compares to the well-established TCP/IP model. The architecture’s network forensic features are then considered. The architecture’s approach to naming and addressing fundamentally differs from the approach used in the current Internet. Great care is taken to distinguish between names and addresses. Names are used to identify entities and generally have a large scope. Addresses, however, are used to locate entities within a limited scope and are consequently not necessarily globally significant. These properties in particular create additional challenges when capturing and analysing network traffic as evidence. The paper shows that the architecture is well-suited for a distributed systems approach to forensics and that the network architecture increases the potential sources of reliable evidence" ,
+    "26":
+    
+      "Online Social Networks: Enhancing user trust through effective controls and identity management Online social networking is one of the largest Internet activities, with almost one third of all daily Internet users visiting these websites. Characteristics of this environment are issues relating to trust, user privacy and anonymity. Service providers are focused primarily on acquiring users and little attention is given to the effective management of these users within the social networking environment. In order to examine this problem, user trust and its enhancement is discussed. An evaluation of current identity management processes and effective controls is undertaken, in order to understand the current environment. Lastly, by means of a detailed experiment focusing on the two main online social networking providers, Facebook and MySpace, controls and identity management processes were assessed for vulnerabilities. The findings of this experiment, together with the current environment of controls and identity management practices, form the proposed set of controls. These controls are aimed at increasing trust and privacy through the effective implementation of these controls and identity management",
+    "27":
+    
+      "Towards a Digital Forensic Readiness Framework for Public Key Infrastructure Systems The Public Key Infrastructure (PKI) is a set of hardware, software, people, policies, and procedures needed to create, manage, store, distribute, and revoke digital certificates [18]. PKI systems are today one of the most accepted and used technologies to enable successful implementation of information systems security services such as authentication and confidentiality. Digital forensics is a branch of forensic science encompassing the recovery and investigation of material found in digital devices, often in relation to computer crime [2][3]. A forensic investigation of digital evidence is commonly employed as a postevent response to a serious information security incident. In fact, there are many circumstances where an organization may benefit from an ability to gather and preserve digital evidence before an incident occurs. Digital forensic readiness enables an organization to maximize its potential to use digital evidence whilst minimizing the costs of an investigation [7]. The problem that this paper addresses is that there is no Digital Forensic Readiness Framework for PKI systems, thus not enabling an implementation of Digital Forensic Readiness measures to PKI systems. This paper focuses on defining the basic postulates of a Digital Forensic Readiness Framework for PKI systems. The authors investigate a model that can be proposed to accomplish this and also certain policies, guidelines and procedures which can be followed. When proposing the framework the authors take into account requirements for preserving or improving information security and not to interfere with the existing PKI systems’ business processes." 
+   
+    }
+
+}
