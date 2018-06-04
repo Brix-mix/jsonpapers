@@ -1,0 +1,220 @@
+{
+  "title":{"0":
+      
+      "A Model for Partially Asynchronous Observation of Malicious Behavior"
+    ,
+      "1":
+      "A Network Telescope perspective of the Conficker outbreak"
+    ,
+    "2":
+      
+      "A Sample of Digital Forensic Quality Assurance in the South African Criminal Justice System "
+    ,
+    "3":
+      
+      "Assessing Information Security Culture: A Critical Analysis of Current Approaches"
+    ,
+    "4":
+      
+      "ATE: Anti-malware Technique Evaluator"
+    ,
+    "5":
+      
+      "Claimed vs Observed Information Disclosure on Social Networking Sites"
+    ,
+    "6":
+      
+      "Filtering Spam E-Mail with Generalized Additive Neural Networks"
+    ,
+    "7":
+      
+      "Guidelines for Procedures of a Harmonised Digital Forensic Process in Network Forensics"
+    ,
+    "8":
+      
+      "A conceptual model for digital forensic readiness"
+    ,
+    "9":
+      
+      "Towards achieving scalability and interoperability in a Triple-Domain Grid-Based Environment (3DGBE)"
+    ,
+    "10":
+      
+      "Android Botnets on the Rise: Trends and Characteristics"
+    ,
+    "11":
+      
+      "Gamifying Authentication"
+    ,
+    "12":
+      
+      "Geo-Spatial Autocorrelation as a Metric for the Detection of Fast-Flux Botnet Domains"
+    ,
+    "13":
+      
+      "Measuring Semantic Similarity Between Digital Forensics Terminologies Using Web Search Engines"
+    ,
+    "14":
+      
+      "On Anonymizing Social Network Graphs"
+    ,
+    "15":
+      
+      "On Forensics: A Silent SMS Attack"
+    ,
+    "16":
+      
+      "Properties of a Similarity Preserving Hash Function and their Realization in sdhash"
+    ,
+    "17":
+    
+      "Strategies for Security Measurement Objective Decomposition"
+    ,
+    "18":
+      
+      "Tag Group Authentication Using Bit-Collisions"
+    ,
+    "19":
+      
+      "The Enemy Within: A Behavioural Intention Model and an Information Security Awareness Process"
+    ,
+    "20":
+      
+      "Analysis on the Causal Relationship and Improvement Strategy of Information Security Management with DEMATEL"
+    ,
+    "21":
+      
+      "Harmonised Digital Forensic Investigation Process Model"
+    ,
+    "22":
+      
+      "Information Confidentiality and the Chinese Wall Model in Government Tender Fraud"
+    ,
+    "23":
+      
+      "On Privacy Calculus and Underlying Consumer Concerns influencing Mobile Banking Subscriptions"
+     ,
+    "24":
+      
+      "Remote Fingerprinting and Multisensor Data Fusion"
+     ,
+    "25":
+      
+      "Social Media Security Culture"
+     ,
+    "26":
+      
+      "The use of computer vision technologies to augment human monitoring of secure computing facilities"
+  },
+
+
+    "abstracts":{"0":
+    
+      "A Model for Partially Asynchronous Observation of Malicious Behavior For a non-trivial attack to be successful in compromising a target, multiple causally related operations must be performed. Detecting such potentially unknown sequences is the core problem in intrusion detection. In this paper, we focus on the problem of observing attacks over non-uniform, partially asynchronous event sets. We hence propose charactering attacks as partially ordered sets, and we show how these can be detected asynchronously, as will typically be the case in a modern computing architecture. By extending a na¨ıve model incorporating subsets of known causal dependencies, enhanced observation strategies minimizing the number and cost of observations can be derived. This incorporation of knowledge regarding constraints on attack causality into observations allows for notable enhancements in the efficiency of detection. We also provide a simple example of an application of the model for the case of an intrusion detection system on a co-processor observing a host, although the model is intended for arbitrary non-uniform architectures and concurrent operations"
+    ,
+    "1":
+    
+      "A Network Telescope perspective of the Conficker outbreak This paper discusses a dataset of some 16 million packets targeting port 445/tcp collected by a network telescope utilising a /24 netblock in South African IP address space. An initial overview of the collected data is provided. This is followed by a detailed analysis of the packet characteristics observed, including size and TTL. The peculiarities of the observed target selection and the results of the flaw in the Conficker worm’s propagation algorithm are presented. An analysis of the 4 million observed source hosts is reported by grouped by both packet counts and the number of distinct hosts per network address block. Address blocks of size /8, 16 and 24 are used for groupings. The localisation, by geographic region and numerical proximity, of high ranking aggregate netblocks is highlighted. The paper concludes with some overall analyses, and consideration of the application of network telescopes to the monitoring of such outbreaks in the future"
+    ,
+    "2":
+    
+      "A Sample of Digital Forensic Quality Assurance in the South African Criminal Justice System Criminal investigations and the resulting criminal prosecutions are dependent on quality evidence to ensure convictions. With the increasing number of digital devices in our society, a significant amount of evidence is digital, and the discipline of digital forensics, as a forensic science, should ensure the validity of this digital evidence in court. As a forensic science, quality assurance is crucial in the practice of digital forensics, to assure the court that the evidence can be trusted. The research explored the current state of digital forensic quality assurance in the criminal justice system in South Africa to determine what quality assurance practices were used, to identify any problems, as well as possible causes of any shortcomings. The research identified significant deficiencies with regard to quality assurance in digital forensics, and identified areas that potentially could impact negatively in the court environment if contested. In summary, the general state of quality assurance practice in digital forensics was poor. Reasons identified for this included a lack of training in digital forensic science fundamentals, lack of training in quality assurance in digital forensics, high case loads, and poor supervision."
+    ,
+    "3":
+    
+      "Assessing Information Security Culture: A Critical Analysis of Current Approaches Today’s businesses operate in an interconnected and global environment allowing them to collaborate with one another and share information resources. At the same time this interconnectivity exposes the organization to many internal (employees) and external threats. Internal threat is among the top information security issues facing organizations as the human factor is regarded the weakest link in the security chain. To address this “human factor” researchers have suggested the fostering of an information security culture to address the human behavior so that information security becomes a second nature to employees. An important step in the fostering of an information security culture is the assessment of the current state of the culture. This paper focuses on the analysis and comparison of current information security culture assessment approaches, to evaluate their suitability specific for use in the culture change process."
+    ,
+    "4":
+    
+      "ATE: Anti-malware Technique Evaluator Current commercial anti-malware products fail to guarantee a 100% detection and prevention of malware. This paper proposes an evaluation framework called ATE (Anti-malware Technique Evaluator) that can be used to evaluate commercial anti-malware products. ATE identifies the vulnerabilities in anti-malware products by providing a set of requirements that must be fulfilled by the anti-malware product being evaluated. The ATE requirements used for evaluating anti-malware products go beyond the usual false positives, false negative, performance etc requirements employed by current anti-malware product evaluations."
+    ,
+    "5":
+    
+      "Claimed vs Observed Information Disclosure on Social Networking Sites Research on internet users reports a gap between reported privacy concerns and observed privacy behavior. This gap has also been reported on social networking sites like Facebook and MySpace. This current study explores the extent of this gap by examining individual Facebook components. Unlike the previous studies that have explored reported privacy concerns versus observed behavior, this study explores claimed information disclosure versus observed information disclosure. A questionnaire was used to examine the reported information disclosure and observations on public Facebook profiles were conducted to examine the actual behavior. The study shows that there is a gap between the reported information disclosure and observed disclosure, like in the case of reported privacy concern versus observed behavior. However, this study shows that the users act more securely than they claim to act."
+    ,
+    "6":
+    
+      "Filtering Spam E-Mail with Generalized Additive Neural Networks Some of the major security risks associated with spam e-mail are the spreading of computer viruses and the facilitation of phishing exercises. Spam is therefore regarded as one of the prominent security threats in modern organizations. Security controls, such as spam filtering techniques, have become increasingly important to protect information and information assets. In this paper the performance of a Generalized Additive Neural Network on a publicly available e-mail corpus is investigated in the context of statistical spam filtering. The neural network is compared to a Naive Bayesian classifier and a Memory-based technique. Generalized Additive Neural Networks have a number of advantages compared to neural networks in general. An automated construction algorithm performs feature and model selection simultaneously and produces results which can be interpreted by a graphical method. This algorithm is powerful, effective and performs highly accurate compared to other non-linear model selection methods. The paper also considers the impact of different feature set sizes using cost-sensitive measures. These criteria are sensitive to the cost difference between two common types of errors made by filtering systems. Experiments show better performance compared to the Naive Bayes and Memory-based classifiers where legitimate e-mails are assigned the same cost as spams. This result suggests Generalized Additive Neural Networks may be utilized to flag spam e-mails in order to prioritize the reading of messages."
+    ,
+    "7":
+    
+      "Guidelines for Procedures of a Harmonised Digital Forensic Process in Network Forensics Cloud computing is a new computing paradigm that presents fresh research issues in the field of digital forensics. Cloud computing builds upon virtualisation technologies and is distributed in nature. Depending on its implementation, the cloud can span across numerous countries. Its distributed nature and virtualisation introduces digital forensic research issues that include among others difficulty in identifying and collecting forensically sound evidence. Even if the evidence may be identified and essential tools for collecting the evidence are acquired, it may be illegal to access computer data residing beyond the jurisdiction of a forensic investigator. The investigator needs to acquire a search warrant that can be executed in a specific foreign country – which may not be a single country due to the distributed nature of the cloud. Obtaining warrants for numerous countries at once may be costly and time consuming. Some countries may also fail to comply with the demands of cloud forensics. Since the field of digital forensics is itself still in its infancy, it lacks standardised forensic processes and procedures. Thus, digital forensic investigators are able to collect evidence, but often fail in following a valid investigation process that is acceptable in a court of law. In addressing digital forensic issues such as the above, the authors are writing a series of papers that are aimed at providing guidelines for digital forensic procedures in a cloud environment. Live forensics and network forensics constitute an integral part of cloud forensics. A paper that deals with guidelines for digital forensic procedures in live forensics was submitted elsewhere. The current paper is therefore the second in a series where the authors propose and present guidelines for digital forensic procedures in network forensics. The authors eventually aim to have guidelines for digital forensic procedures in a cloud environment as the last paper in the series."
+    ,
+    "8":
+    
+      "A conceptual model for digital forensic readiness The ever-growing threats of fraud and security incidents present many challenges to law enforcement and organisations across the globe. This has given rise to the need for organisations to build effective incident management strategies, which will enhance the company’s reactive capability to security incidents. The aim of this paper is to propose proactive activities an organisation can undertake in order to increase its ability to respond to security incidents and create a digitally forensic ready workplace environment. The study constitutes exploratory research, with the use of a systematic literature review as a basis to identify activities relating to a digitally forensic ready environment. While much has been written about how organisations can prepare to respond to security incidents, findings show an absence of a digital forensic readiness model. This paper concludes by presenting such a conceptual model. This study contributes to the greater body of knowledge on the design and implementation of a digital forensic readiness programme, aimed at maximising the use of digital evidence in an organisation."
+    ,
+    "9":
+    
+      "Towards achieving scalability and interoperability in a Triple-Domain Grid-Based Environment (3DGBE) The adoption of grid computing has posed challenges regarding access control, interoperability and scalability. Although several methods have been proposed to address these grid computing challenges, none has proven to be completely efficient and dependable. To tackle these challenges, a novel access control architecture framework, TripleDomain Grid-Based Environment (3DGBE), modelled on role-based access control, was developed. The architecture’s framework assumes three domains, each domain with an independent Local Security Monitoring Unit and a Central Security Monitoring Unit that monitor security for the entire grid. The architecture was evaluated using the G3S, a grid security services simulator and Java Runtime Environment 1.7.0.5 for implementing the workflows that define the model’s task. The simulation results show that the developed architecture is reliable and efficient if measured against the observed parameters and entities. A further benefit is the reduction in the cost of policy management. This proposed framework for access control has proved to be interoperable and scalable within the parameters tested."
+    ,
+    "10":
+    
+      "Android Botnets on the Rise: Trends and Characteristics Smartphones are the latest technology trend of the 21st century. Today’s social expectation of always staying connected and the need for an increase in productivity are the reasons for the increase in smartphone usage. One of the leaders of the smartphone evolution is Google’s Android Operating System (OS). The openness of the design and the ease of customizing are the aspects that are placing Android ahead of the other smartphone OSs. Such popularity has not only led to an increase in Android usage but also to the rise of Android malware. Although such malware is not having a significant impact on the popularity of Android smartphones, it is however creating new possibilities for threats. One such threat is the impact of botnets on Android smartphones. Recently, malware has surfaced that revealed specific characteristics relating to traditional botnet activities. Malware such as Geinimi, Pjapps, DroidDream, and RootSmart all display traditional botnet functionalities. These malicious applications show that Android botnets is a reality. From a security perspective it is important to understand the underlying structure of an Android botnet. This paper evaluates Android malware with the purpose of identifying specific trends and characteristics relating to botnet behaviour. The botnet trends and characteristics are detected by a comprehensive literature study of well-known Android malware applications. The identified characteristics are then further explored in terms of the Android Botnet Development Model and the Android Botnet Discovery Process. The common identified trends and characteristics aid the understanding of Android botnet activities as well as the possible discovery of an Android bot"
+    ,
+    "11":
+    
+      "Gamifying Authentication The fields of security and usability often conflict with each other. Security focuses on making systems difficult for attackers to compromise. However, doing this also increases difficulty for the user. Users in security are often seen as an obstacle - they are the weakest point of the system, willing to circumvent security policies in order to access their work faster. A large part of security is authentication: knowing who a user of a system is and denying access to unauthenticated users. Authentication is very often the starting point of user interaction with security systems. Unfortunately, authentication is still most commonly achieved using text-based passwords. This is often the easiest and cheapest system to implement. Most websites and services advise users to select unique, complex and lengthy passwords. These passwords are difficult for users to remember and often lead to irresponsible behaviour such as writing down or reusing passwords. Serious games are games that are designed for a different primary purpose than pure entertainment. This field includes gamification, where non-gaming contexts are enhanced by using principles from gaming. Examples include experience points, achievements, progress indicators and leader boards. Gamification uses these tools to persuade users to change their behaviour. If gamification can be applied to security, it may aid in convincing users to act more securely. This paper discusses the possibilities of applying gamification to authentication as a new approach to usability and security."
+    ,
+    "12":
+    
+      "Geo-Spatial Autocorrelation as a Metric for the Detection of Fast-Flux Botnet Domains Botnets consist of thousands of hosts infected with malware. Botnet owners communicate with these hosts using Command and Control (C2) servers. These C2 servers are usually infected hosts which the botnet owners do not have physical access to. For this reason botnets can be shut down by taking over or blocking the C2 servers. Botnet owners have employed numerous shutdown avoidance techniques. One of these techniques, DNS Fast-Flux, relies on rapidly changing address records. The addresses returned by the Fast-Flux DNS servers consist of geographically widely distributed hosts. The distributed nature of Fast-Flux botnets differs from legitimate domains, which tend to have geographically clustered server locations. This paper examines the use of spatial autocorrelation techniques based on the geographic distribution of domain servers to detect Fast-Flux domains. Moran’s I and Geary’s C are used to produce classifiers using multiple geographic co-ordinate systems to produce efficient and accurate results. It is shown how Fast-Flux domains can be detected reliably while only a small percentage of false positives are produced."
+    ,
+    "13":
+    
+      "Measuring Semantic Similarity Between Digital Forensics Terminologies Using Web Search Engines Semantic similarity between different terminologies is becoming a generic problem that extends across numerous domains, touching applications developed for computational linguistics, artificial intelligence, cognitive science and, in the case of this paper, digital forensics. Despite the usefulness of semantic similarity measures in different domains, accurately measuring semantic similarity between any two terms remains a challenging task. The main difficulty lies in developing a computational method with the ability to generate satisfactory results close to how human beings perceive these terminologies, especially when used in their domain of expertise. This paper presents a novel approach of using the Web to measure semantic similarity between two terms x and y in the digital forensics domain. The proposed approach is based on the Euclidean distance, a mathematical concept used to calculate the distance between two points. This paper also shows how computing the absolute value of the difference of the logarithms of the hit count percentages of any given terms x and y relates to the computed Euclidean distance of x and y. Percentages are computed from the total number of hit counts reported by any Web search engine for the search terms x, y and the logical x AND y together. Finally, these concepts are used to deduce a formula to automatically calculate a semantic similarity measure coined as the Digital Forensic Absolute Semantic Similarity Value of the terms x and y, denoted as DFASSV(x, y). Experiments conducted using the proposed DFASSV method focuses on the digital forensics domain. However, a comparison of the DFASSV approach with previously proposed Web-based semantic similarity measures shows that this approach is well suited for digital forensics domain terminologies. In the authors’ opinion however, the DFASSV approach can be applied in other domains as well because it does not require any humanannotated knowledge. DFASSV is a novel approach to semantic similarity measure and constitutes the main contribution of this paper."
+    ,
+    "14":
+    
+      "On Anonymizing Social Network Graphs The proliferation of social networks as a means of seamless communication between multiple parties across vast geographical distances has driven an increased interest from government organizations and companies. Government organizations typically seek access to these pools of personal data for statistical purposes while companies tend to look at this data from a marketing perspective. Users typically post information containing personal data during social network interactions with other users because the aim is to share this information only with persons that are authorized to access the information. However, the growing desire to exploit this information for statistical and marketing purposes, for instance, raises the question of privacy. It is therefore increasingly important to come up with ways of anonymizing personal data in order to circumvent privacy violations. Previous work has focused on two major approaches to anonymizing data namely, clustering and graph modifications. Both techniques aim to preserve the utility of the data for analysis and keep the identities of the users secret. We postulate however, that both approaches are in fact vulnerable to privacy violations and so do not enforce the property of anonymity. In addition, we argue that this problem is in fact NP-Hard and that the difficulty is in identifying as well as anonymizing all the possible channels that might leak information about a person’s true identity."
+    ,
+    "15":
+    
+      "On Forensics: A Silent SMS Attack Silent messages often referred to as Silent SMS or Stealth SMS, when delivered to a mobile handset is indicated neither on the display nor by an acoustic alert signal. In the paper [2], the authors highlighted the technical details of sending a silent SMS, furthermore sending multiple incessant silent SMSs performing A silent SMS denial of Service (DoS) attack. These stealth messages are not only used to perform DoS attacks but are increasingly sent in order to force the continuous update of subscriber location information. In doing so, anyone with access to the network infrastructure, may use the technology to better track the movements of any subscriber on the mobile network. This paper describes, from a forensic perspective, how a silent application-generated SMS (attack) is discovered. We then investigate the possibilities of retrieving silent SMS evidence at both the handset and network level. Furthermore, using propositional logic, we explore related SMS network configurations which might thwart the forensic ability of a silent SMS attack."
+    ,
+    "16":
+    
+      "Properties of a Similarity Preserving Hash Function and their Realization in sdhash Finding similarities between byte sequences is a complex task and necessary in many areas of computer science, e.g., to identify malicious files or spam. Instead of comparing files against each other, one may apply a similarity preserving compression function (hash function) first and do the comparison for the hashes. Although we have different approaches, there is no clear definition / specification or needed properties of such algorithms available. This paper presents four basic properties for similarity preserving hash functions that are partly related to the properties of cryptographic hash functions. Compression and ease of computation are borrowed from traditional hash functions and define the hash value length and the performance. As every byte is expected to influence the hash value, we introduce coverage. Similarity score describes the need for a comparison function for hash values. We shortly discuss these properties with respect to three existing approaches and finally have a detailed view on the promising approach sdhash. However, we uncovered some bugs and other peculiarities of the implementation of sdhash. Finally we conclude that sdhash has the potential to be a robust similarity preserving digest algorithm, but there are some points that need to be improved"
+    ,
+    "17":
+    
+      "Strategies for Security Measurement Objective Decomposition Systematically managed, sufficient and credible security metrics increase the understanding of the security effectiveness level of software-intensive systems during the system development and operation. Risk-driven top-down modeling enables systematic and meaningful security metrics development. We propose six strategies for security measurement objective decomposition. Their focus is on metrics development for security correctness, software and system quality, partial security effectiveness, as well as security-related compliance and tradeoff decision-making. The proposed strategies integrate an abstract security effectiveness model, security measurement objectives, and the associated measurement points in relevant system components. Security effectiveness is emphasized in all strategies despite of other objectives."
+    ,
+    "18":
+    
+      "Tag Group Authentication Using Bit-Collisions Secure RFID systems should be able to authenticate individual tags to prevent genuine items from being replaced with forgeries. Conventional authentication protocols would require some form of challenge-response exchange with each individual tag. The extra transaction time needed to authenticate each individual tag sequentially might not be practically feasible, especially when readers are required to process an ever increasing volume of tagged items within a limited time. Our proposal works towards an approach that allows for multiple tags in a group to be authenticated simultaneously, as all the tags transmit their responses to a single challenge at the same time. This results in a controlled bit-collision pattern that can be used to verify that all the individual tags in a group are present and genuine."
+    ,
+    "19":
+    
+      "The Enemy Within: A Behavioural Intention Model and an Information Security Awareness Process Most employees in small and medium enterprise (SME) engineering firms now have access to their own personal workstations which have become part of their daily functions. This has led to an increased need for information security management to safeguard against loss/alteration or theft of the firm’s important information. SMEs tend to be concerned with vulnerabilities from external threats, although industry research suggests that a substantial proportion of security incidents originate from insiders within the firm. Hence, physical preventative measures such as antivirus software and firewalls are proving to solve only part of the problem as the employees controlling them do not have adequate information security knowledge. This tends to expose the firm to costly mistakes that can be made by naïve/uninformed employees. This paper presents an information security awareness process that seeks to cultivate positive security behaviours using the behavioural intentions models i.e. the Theory of Reasoned Action and the Protection Motivation Theory. The process presented has been tested at an SME engineering firm, and findings are also presented and discussed in this paper."
+    ,
+    "20":
+    
+      "Analysis on the Causal Relationship and Improvement Strategy of Information Security Management with DEMATEL The study applied Decision Making Trial and Evaluation Laboratory (DEMATEL) to analyze the casual relationship and mutual impact level between the control items of the information security management system. Three core control items of the information security management system are found, Security Policy (SC1), Access Control (SC7) and Human Resources Security (SC4) respectively. They can be provided to enterprises as the direction of continuous improvement, risk reduction and the establishment of competitive advantages. The study applied the methodology value of DEMATEL, which not only has established the causal relationship and mutual impact level between the 11 information security control items, but also provided organizations with the least resource input to resolve practical intricate issues."
+    ,
+    "21":
+    
+      "Harmonised Digital Forensic Investigation Process Model  Digital forensics gained significant importance over the past decade, due to the increase in the number of information security incidents over this time period, but also due to the fact that our society is becoming more dependent on information technology. Performing a digital forensic investigation requires a standardised and formalised process to be followed. There is currently no international standard formalising the digital forensic investigation process, nor does a harmonised digital forensic investigation process exist that is acceptable in this field. This paper proposes a harmonised digital forensic investigation process model. The proposed model is an iterative and multi-tier model. The authors introduce the term parallel actions, defined as the principles which should be translated into actions within the digital forensic investigation process (i.e. principle that evidence’s integrity must be preserved through the process and that chain of evidence must be preserved). The authors believe that the proposed model is comprehensive and that it harmonises existing state-of-the-art digital forensic investigation process models. Furthermore, we believe that the proposed model can lead to the standardisation of the digital forensic investigation process."
+    ,
+    "22":
+    
+      "Information Confidentiality and the Chinese Wall Model in Government Tender Fraud Instances of fraudulent acts are often headline news in the popular press in South Africa. Increasingly these press reports point to the government tender process as being the main enabler used by the perpetrators committing the fraud. The cause of the tender fraud problem is a confidentiality breach of information. This is accomplished, in part, by compromising the tender information contained in the government information system. This results in the biased award of a tender. Typically the information in the tender process should be used to make decisions about a tender’s specifications, solicitation, evaluation and adjudication. The sharing of said information to unauthorised persons can be used to manipulate and corrupt the process. The reliance on uncompromised information during the tender process, points to the need to ensure that information confidentiality is present. A lack of information confidentiality can occur when a government official involved in the tender process derives personal gain by knowingly possessing a conflict of interest. This in turn corrupts the tender process by awarding a tender to an unworthy recipient. This paper addresses the conflict of interest which can arise between government officials and external stakeholders in the government tender process. It suggests that conflict of interest together with a lack of information confidentiality in the information system paves the way for possible corruption. Thereafter, information flow models, and the Chinese Wall Model are discussed as a means of mitigating instances where conflict of interest can occur. The Chinese Wall Model is applied to three existing case studies associated with corruption to determine its viability in the conflict of interest problem within the tender process. Finally, an adapted Chinese Wall Model, which includes elements of the tender process, is presented as a conceptual view of how the Chinese Wall Model can mitigate fraud in the government tender process."
+    ,
+    "23":
+    
+      "On Privacy Calculus and Underlying Consumer Concerns influencing Mobile Banking Subscriptions The advancement of technology in mobile devices places South African (SA) banking institutions in unique positions to leverage these advancements into innovative value added services. Mobile banking is one such innovation that has afforded banking clients the ability to, amongst other services, view bank statements, pay bills, and transfer money. Despite a growing trend in mobile banking service offerings by SA banks, privacy and security issues are still considered a concern. The paper conceptualizes the underlying concerns by bank clients regarding the adoption of mobile banking services. Privacy Calculus Theory (PCT) has been used as a theoretical lens to explain the cognitive process involved when a potential mobile banking subscriber is presented with mobile banking technology solutions. The paper extends PCT by abstracting the risk/benefit trade-off psyche held by SA bank clients. The paper attempts to explain, using PCT, the bank clients’ cognitive process and willingness to subscribe to mobile banking services. Quantitative research method has been used for this purpose. Purposeful sampling that targeted SA bank-account holders was applied. Empirical results show that the South African banked consumers’ psyche is largely influenced by the utility of a technology (mobile banking service) and interestingly, privacy and security play a lesser role in this trade-off."
+   
+    ,
+    "24":
+    
+      "Remote Fingerprinting and Multisensor Data Fusion Network fingerprinting is the technique by which a device or service is enumerated in order to determine the hardware, software or application characteristics of a targeted attribute. Although fingerprinting can be achieved by a variety of means, the most common technique is the extraction of characteristics from an entity and the correlation thereof against known signatures for verification. In this paper we identify multiple hostdefining metrics and propose a process of unique host tracking through the use of two novel fingerprinting techniques. We then illustrate the application of host fingerprinting and tracking for increasing situational awareness of potentially malicious hosts. In order to achieve this we provide an outline of an adapted multisensor data fusion model with the goal of increasing situational awareness through observation of unsolicited network traffic" ,
+    "25":
+    
+      "Social Media Security Culture  Social media provides both opportunities and risks for any organization. Secure integration of social media platforms in organizational ICT infrastructures tends to be focused mainly on technical aspects. Social media security management usually ignores the human dimension, but protection can only be achieved through a holistic approach. Social media security culture must be part of the overall organizational culture. From a survey conducted to determine social media guidelines, a management model was developed for creating, monitoring and controlling social media security culture. The management model will be mapped to an assessment and reporting tool." ,
+    "26":
+    
+      "The use of computer vision technologies to augment human monitoring of secure computing facilities Humans are poorly equipped to perform repetitive tasks without adversely affecting the efficiency with which they are performing the task. Assets within a secure environment are usually protected with various controls that are enforced by users who follow operational controls associated to those assets. The current approach to security monitoring by means of video cameras are performed by a person physically needing to concentrate on multiple video feeds. This method relies on the constant vigilance of the operator and the consequence of loss of vigilance can range from minor theft of assets to missing a bomb placed within an airport. This paper will approach security monitoring using Computer Vision augmented with Speeded-Up Robust Features (SURF) as the catalyst to provide event-driven object detection to assist in securing an environment. A scenario of a secure computer environment will be used to demonstrate the problems with current approaches and present an alternative to human monitoring using Computer Vision. The paper demonstrates that some of the physical aspects of information security can be improved through the use of SURF algorithms." 
+   
+    }
+
+}
