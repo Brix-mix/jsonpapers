@@ -1,0 +1,16 @@
+{
+  "title":{"0":
+      
+      "Team Formation in Digital Forensics"
+    
+  },
+
+
+    "abstracts":{"0":
+    
+      "Team Formation in Digital Forensics A major problem in Digital Forensics (DF) is the often huge volumes of data that has to be searched, filtered, and indexed to discover patterns that could lead to forensic evidence. The nature of, and the process by which the data was collected also means that the data contain information about persons that are not involved, or only incidentally involved in the crime under investigation. Privacy is therefore another potential issue that needs to be dealt with in a DF investigation. This paper shows that techniques of the Team Formation (TF) task can be used to address both of these problems. The TF task can be formulated to fit the DF arena: to commit a crime, the culprit(s) may require the assistance of several other individuals, which implies that a team of some sort gets established. During a post-mortem DF analysis, an investigator may only have one, or a few names to start with. One of the key challenges is finding possible co-conspirators. From a TF point of view, the culprit is trying to find the best team to commit the crime. This paper proposes that automated techniques could be used to discover potential teams from the data. The TF task in DF requires the recording of skill-sets, and the generation and/or discovery of a graph depicting interaction between candidates. If the data consist of an email corpus and peoples’ roles in an organisation (such as in the Enron data), both of these are available. We consider the TF problem in general and extend it to the DF arena by considering the information that an investigator may have access to during the investigation."
+    
+    
+    }
+
+}
